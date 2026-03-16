@@ -16,11 +16,9 @@ main:
     url: /#working-experiences
   - title: "Projects"
     url: /#projects
-  - title: "Conferences"
-    url: /#conferences
-  - title: "Invited Lectures"
-    url: /#invited-lectures
   - title: "Publications"
     url: /#publications
+  - title: "Research Activities"
+    url: /#research-activities
   - title: "Awards"
     url: /#awards
