@@ -178,7 +178,7 @@ author_profile: false
 
 <ul class="compact-list">
   <li><strong>2023.09–Present</strong> &nbsp; Peking University, Boya Postdoctoral Researcher / Assistant Professor</li>
-  <li><strong>2023.05–2023.08</strong> &nbsp; National University of Singapore, Postdoctoral Researcher</li><p style="margin-bottom: 1rem; line-height: 1.7;">
+  <li><strong>2023.05–2023.08</strong> &nbsp; National University of Singapore, Postdoctoral Researcher</li>
   <li><strong>2019.07–2021.02</strong> &nbsp; Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences, Research Assistant</li>
 </ul>
 
