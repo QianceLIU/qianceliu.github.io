@@ -33,7 +33,6 @@ author_profile: false
 }
 </style>
 
-<div class="section-title">Full Project List</div>
 <hr class="section-rule">
 
 <div class="subsection-title">Principal Investigator / 主持项目</div>
