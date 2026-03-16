@@ -168,52 +168,66 @@ author_profile: false
 
 <ul class="compact-list">
   <li><strong>2023.09–Present</strong> &nbsp; Peking University, Boya Postdoctoral Researcher / Assistant Researcher</li>
-  <li><strong>2023.05–2023.08</strong> &nbsp; National University of Singapore, Postdoctoral Researcher</li>
+  <li><strong>2023.05–2023.08</strong> &nbsp; National University of Singapore, Postdoctoral Researcher</li><p style="margin-bottom: 1rem; line-height: 1.7;">
+  <strong>Summary:</strong> 24 academic publications; more than
+  <a href="https://scholar.google.com/citations?hl=zh-CN&user=1FnI3BMAAAAJ" target="_blank">500 citations</a>;
+  <a href="https://scholar.google.com/citations?hl=zh-CN&user=1FnI3BMAAAAJ" target="_blank">H-index of 10</a>.
+</p>
   <li><strong>2019.07–2021.02</strong> &nbsp; Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences, Research Assistant</li>
 </ul>
 
-<div id="publications" class="section-title" style="scroll-margin-top: 90px;">Selected Publications</div>
+<div id="publications" class="section-title" style="scroll-margin-top: 90px;">Publications</div>
 <hr class="section-rule">
 
-<div class="pub-item rep-paper">
+<p style="margin-bottom: 1rem; line-height: 1.7;">
+  <strong>Summary:</strong> 24 academic publications; more than
+  <a href="https://scholar.google.com/citations?hl=zh-CN&user=1FnI3BMAAAAJ" target="_blank">500 citations</a>;
+  <a href="https://scholar.google.com/citations?hl=zh-CN&user=1FnI3BMAAAAJ" target="_blank">H-index of 10</a>.
+</p>
+
+<div class="pub-item">
   <div class="pub-title">[1] <strong>Liu, Q.</strong>, Ouyang, X., Zhu, W., Sun, K., Song, J., Li, X., Li, Y., Chen, W., Liu, G. 2025.</div>
-  Spatiotemporal Characteristics of Global Building Material Intensity Revealed for Circular and Low-Carbon Construction. <em>Environmental Science &amp; Technology</em> 59, 24786–24795. <a href="https://doi.org/10.1021/acs.est.5c05684">DOI</a>
+  Spatiotemporal Characteristics of Global Building Material Intensity Revealed for Circular and Low-Carbon Construction. <strong><em>Environmental Science &amp; Technology</em></strong> 59, 24786–24795. <a href="https://doi.org/10.1021/acs.est.5c05684">DOI</a>
 </div>
 
-<div class="pub-item rep-paper">
+<div class="pub-item">
   <div class="pub-title">[2] Wang, B., <strong>Liu, Q.</strong>*, Ouyang, X., Chen, W., Zhang, Z., Liu, G., Matsubae, K. 2025.</div>
-  Global hidden material flows triggered by China’s vehicle supply chain far exceed eventual material use. <em>Nature Communications</em> 16, 9217. <a href="https://doi.org/10.1038/s41467-025-64090-x">DOI</a>
+  Global hidden material flows triggered by China’s vehicle supply chain far exceed eventual material use. <strong><em>Nature Communications</em></strong> 16, 9217. <a href="https://doi.org/10.1038/s41467-025-64090-x">DOI</a>
 </div>
 
-<div class="pub-item rep-paper">
+<div class="pub-item">
   <div class="pub-title">[3] Dai, T., Han, Z., Chen, W., Wen, B., Ouyang, X., Li, Q., Pan, Z., <strong>Liu, Q.</strong>* 2024.</div>
-  Uncovering Availability of the Secondary Iron Resources in China: Integrating Material Flow Analysis and Secondary Resources Reserve Assessment. <em>Environmental Science &amp; Technology</em> 58, 15268–15278. <a href="https://doi.org/10.1021/acs.est.3c09975">DOI</a>
+  Uncovering Availability of the Secondary Iron Resources in China: Integrating Material Flow Analysis and Secondary Resources Reserve Assessment. <strong><em>Environmental Science &amp; Technology</em></strong> 58, 15268–15278. <a href="https://doi.org/10.1021/acs.est.3c09975">DOI</a>
 </div>
 
-<div class="pub-item rep-paper">
+<div class="pub-item">
   <div class="pub-title">[4] <strong>Liu, Q.</strong>, Sun, K., Ouyang, X., Sen, B., Liu, L., Dai, T., Liu, G. 2022.</div>
-  Tracking Three Decades of Global Neodymium Stocks and Flows with a Trade-Linked Multiregional Material Flow Analysis. <em>Environmental Science &amp; Technology</em> 56, 11807–11817. <a href="https://doi.org/10.1021/acs.est.2c02247">DOI</a>
+  Tracking Three Decades of Global Neodymium Stocks and Flows with a Trade-Linked Multiregional Material Flow Analysis. <strong><em>Environmental Science &amp; Technology</em></strong> 56, 11807–11817. <a href="https://doi.org/10.1021/acs.est.2c02247">DOI</a>
 </div>
 
-<div class="pub-item rep-paper">
+<div class="pub-item">
   <div class="pub-title">[5] <strong>Liu, Q.</strong>, Liu, L., Liu, X., Li, S., Liu, G. 2021.</div>
-  Building stock dynamics and the impact of construction bubble and bust on employment in China. <em>Journal of Industrial Ecology</em> 25, 1631–1643. <a href="https://doi.org/10.1111/jiec.13182">DOI</a>
+  Building stock dynamics and the impact of construction bubble and bust on employment in China. <strong><em>Journal of Industrial Ecology</em></strong> 25, 1631–1643. <a href="https://doi.org/10.1111/jiec.13182">DOI</a>
 </div>
 
-<div class="pub-item rep-paper">
+<div class="pub-item">
   <div class="pub-title">[6] <strong>Liu, Q.</strong>, Cao, Z., Liu, X., Liu, L., Dai, T., Han, J., Duan, H., Wang, C., Wang, H., Liu, J., Cai, G., Mao, R., Wang, G., Tan, J., Li, S., Liu, G. 2019.</div>
-  Product and Metal Stocks Accumulation of China’s Megacities: Patterns, Drivers, and Implications. <em>Environmental Science &amp; Technology</em> 53, 4128–4139. <a href="https://doi.org/10.1021/acs.est.9b00387">DOI</a>
+  Product and Metal Stocks Accumulation of China’s Megacities: Patterns, Drivers, and Implications. <strong><em>Environmental Science &amp; Technology</em></strong> 53, 4128–4139. <a href="https://doi.org/10.1021/acs.est.9b00387">DOI</a>
 </div>
 
-<div class="pub-item rep-paper">
+<div class="pub-item">
   <div class="pub-title">[7] <strong>刘仟策</strong>, 刘立涛, 刘剑, 李胜功, 白晧, 刘刚. 2018.</div>
-  重庆市钢铁存量估算及驱动力分析. <em>资源科学</em> 40, 2341–2350. <a href="https://doi.org/10.18402/resci.2018.12.02">DOI</a>
+  重庆市钢铁存量估算及驱动力分析. <strong><em>资源科学</em></strong> 40, 2341–2350. <a href="https://doi.org/10.18402/resci.2018.12.02">DOI</a>
 </div>
 
 <p><a href="/full-publications/">View full publication list →</a></p>
 
-<div id="projects" class="section-title" style="scroll-margin-top: 90px;">Selected Projects</div>
+<div id="projects" class="section-title" style="scroll-margin-top: 90px;">Projects</div>
 <hr class="section-rule">
+
+<p style="margin-bottom: 1rem; line-height: 1.7;">
+  <strong>Summary:</strong> Led and participated in 13 research projects at the provincial-ministerial level and above, with cumulative directly managed research funding exceeding RMB 2 million.
+</p>
 
 <div class="pub-item">
   <div class="pub-title">[2] National Postdoctoral Talent Program (Overseas Recruitment Track)</div>
