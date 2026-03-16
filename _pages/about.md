@@ -216,15 +216,15 @@ author_profile: false
 <hr class="section-rule">
 
 <div class="pub-item">
-  <div class="pub-title">[1] National Natural Science Foundation of China, Young Scientists Fund (Category C), No. 72504011</div>
-  <strong>Regulatory Mechanisms of Secondary Rare Earth Resource Supply Potential and Optimization of Large-Scale Recycling Pathways</strong>, 2026–2028, RMB 300,000, Principal Investigator.<br>
-  国家自然科学基金青年科学基金项目（C类），72504011，<strong>稀土二次资源供给潜力调控机制与规模化回收路径优化研究</strong>，2026–2028，30万元，主持。
-</div>
-
-<div class="pub-item">
   <div class="pub-title">[2] National Postdoctoral Talent Program (Overseas Recruitment Track)</div>
   <strong>Multidimensional Sustainability Assessment of Building Renovation in China under the Dual-Carbon Goals: Resource-Emission-Society Nexus</strong>, 2024–2027, RMB 900,000, Principal Investigator.<br>
   国家级博士后人才专项（海外引才），<strong>“双碳目标”下中国建筑翻新的“资源-排放-社会”多维可持续性评估</strong>，2024–2027，90万元，主持。
+</div>
+
+<div class="pub-item">
+  <div class="pub-title">[1] National Natural Science Foundation of China, Young Scientists Fund (Category C), No. 72504011</div>
+  <strong>Regulatory Mechanisms of Secondary Rare Earth Resource Supply Potential and Optimization of Large-Scale Recycling Pathways</strong>, 2026–2028, RMB 300,000, Principal Investigator.<br>
+  国家自然科学基金青年科学基金项目（C类），72504011，<strong>稀土二次资源供给潜力调控机制与规模化回收路径优化研究</strong>，2026–2028，30万元，主持。
 </div>
 
 <div class="pub-item">
@@ -245,11 +245,6 @@ author_profile: false
   国家自然科学基金重点项目，42530502，<strong>全球变化背景下战略资源流动态势与地缘安全风险评估</strong>，2026–2030，219万元，参与（课题负责人）。
 </div>
 
-<div class="pub-item">
-  <div class="pub-title">[6] Doctoral Research Grants in Denmark</div>
-  <strong>S.C. VAN Foundation</strong>, 12.5万丹麦克朗; <strong>Grethe &amp; Werner Parthum Foundation</strong>, 10万丹麦克朗; <strong>Idella Foundation</strong>, 2.5万丹麦克朗。<br>
-  博士阶段获丹麦基金资助：<strong>S.C. VAN Foundation</strong> 12.5万丹麦克朗，<strong>Grethe &amp; Werner Parthum Foundation</strong> 10万丹麦克朗，<strong>Idella Foundation</strong> 2.5万丹麦克朗。
-</div>
 
 <p><a href="/full-projects/">View full project list →</a></p>
 
