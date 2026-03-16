@@ -19,20 +19,27 @@ author_profile: false
 }
 .profile-flex {
   display: flex;
-  gap: 24px;
+  gap: 18px;
   align-items: flex-start;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   margin-bottom: 1.5rem;
-  max-width: 900px;
+  max-width: 960px;
 }
+
+.profile-photo {
+  flex: 0 0 300px;
+}
+
 .profile-photo img {
-  width: 260px;
+  width: 300px;
   max-width: 100%;
   border-radius: 4px;
 }
+
 .profile-info {
   flex: 1;
-  min-width: 280px;
+  min-width: 0;
+  max-width: 620px;
 }
 .profile-title {
   font-size: 1.5rem;
