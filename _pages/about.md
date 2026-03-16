@@ -257,19 +257,19 @@ author_profile: false
 </div>
 
 <div class="pub-item">
-  <div class="pub-title">[5] Open Fund of the National Key Laboratory of Low-Carbon Regeneration of Material Cycles, Beijing University of Technology, No. MLCR-2025KF-006</div>
+  <div class="pub-title">[4] Open Fund of the National Key Laboratory of Low-Carbon Regeneration of Material Cycles, Beijing University of Technology, No. MLCR-2025KF-006</div>
   <strong>Integrated Resource-Energy-Environment Assessment of the Life Cycle of Building Materials in Chinese Metropolitan Areas under the Dual-Carbon Goals</strong>, 2025-2027, RMB 150,000,oPrincipal Investigator.<br>
   北京工业大学材料循环低碳再生全国重点实验室开放基金，MLCR-2025KF-006，<strong>双碳目标下的中国都市圈建筑材料生命周期资源-能源-环境综合评估研究</strong>，2025-2027，15万元，主持。
 </div>
 
 <div class="pub-item">
-  <div class="pub-title">[4] National Major Program on Deep Earth Exploration, No. 2025ZD1007000</div>
+  <div class="pub-title">[5] National Major Program on Deep Earth Exploration, No. 2025ZD1007000</div>
   <strong>Security Evaluation and Global Strategy Research on Strategic Mineral Resource Industrial and Supply Chains</strong>, 2025–2029, RMB 3,000,000, Topic Leader.<br>
   深地国家科技重大专项，2025ZD1007000，<strong>战略性矿产资源产业链供应链安全评价与全球战略研究</strong>，2025–2029，300万元，参与（专题负责人）。
 </div>
 
 <div class="pub-item">
-  <div class="pub-title">[5] NSFC Key Program, No. 42530502</div>
+  <div class="pub-title">[6] NSFC Key Program, No. 42530502</div>
   <strong>Dynamics of Strategic Resource Flows and Geo-Security Risk Assessment under Global Change</strong>, 2026–2030, RMB 2,190,000, Subproject Leader.<br>
   国家自然科学基金重点项目，42530502，<strong>全球变化背景下战略资源流动态势与地缘安全风险评估</strong>，2026–2030，219万元，参与（课题负责人）。
 </div>
