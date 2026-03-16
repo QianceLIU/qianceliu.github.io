@@ -1,56 +1,256 @@
 ---
+layout: archive
+title: ""
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+<div id="biography" style="scroll-margin-top: 90px; font-size:22pt; font-weight:bold; margin-top:0.8em; margin-bottom:0.6em;">Biography</div>
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Qiance Liu is a Boya Postdoctoral Researcher / Assistant Professor at the College of Urban and Environmental Sciences, Peking University. His research focuses on material cycles, urban metabolism, resource utilization, recycling, and sectoral decarbonization modelling, with particular interests in how urban material flows and circularity contribute to greenhouse gas mitigation and sustainable urban development.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+<div id="education" style="scroll-margin-top: 90px; font-size:22pt; font-weight:bold; margin-top:1.2em; margin-bottom:0.6em;">Education</div>
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- Ph.D., [Discipline], [University], [Year]
+- M.S., [Discipline], [University], [Year]
+- B.S., [Discipline], [University], [Year]
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+<div id="working-experiences" style="scroll-margin-top: 90px; font-size:22pt; font-weight:bold; margin-top:1.2em; margin-bottom:0.6em;">Working Experiences</div>
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- [Year]–Present: Boya Postdoctoral Researcher / Assistant Professor, College of Urban and Environmental Sciences, Peking University
+- [Year]–[Year]: [Position], [Institution]
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+<div id="projects" style="scroll-margin-top: 90px; font-size:22pt; font-weight:bold; margin-top:1.2em; margin-bottom:0.6em;">Projects</div>
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+- **Project 1.** [Project title, funding source, year]
+- **Project 2.** [Project title, funding source, year]
+- **Project 3.** [Project title, funding source, year]
 
-**Markdown generator**
+<div id="conferences" style="scroll-margin-top: 90px; font-size:22pt; font-weight:bold; margin-top:1.2em; margin-bottom:0.6em;">Conferences</div>
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+- [Conference presentation 1]
+- [Conference presentation 2]
+- [Conference presentation 3]
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+<div id="invited-lectures" style="scroll-margin-top: 90px; font-size:22pt; font-weight:bold; margin-top:1.2em; margin-bottom:0.6em;">Invited Lectures</div>
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+- [Invited lecture 1]
+- [Invited lecture 2]
+- [Invited lecture 3]
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<div id="publications" style="scroll-margin-top: 90px; font-size:22pt; font-weight:bold; margin-top:1.2em; margin-bottom:0.6em;">Publications</div>
+
+<div style="font-size:18pt; font-weight:bold; margin-top:1em; margin-bottom:0.5em;">2026</div>
+<ol start="1">
+  <li>
+    Gao, Y., Moradi, M., Zou, J., <strong>Liu, Q.</strong>, Wang, F., Jiang, G., Xu, D. 2026.
+    <strong>Electroactive marine actinomycete <em>Nocardiopsis dassonvillei</em> accelerates the corrosion of 5083 aluminum alloy.</strong>
+    <em>Corrosion Science</em> 259, 113514.
+    <a href="https://doi.org/10.1016/j.corsci.2025.113514">DOI</a>
+  </li>
+
+  <li>
+    Ouyang, X., Liu, L., <strong>Liu, Q.</strong>, Chen, W., Wang, C., Pang, X., He, C., Liu, G. 2026.
+    <strong>Systemic risks and cascading dynamics in the global cobalt supply chain.</strong>
+    <em>Environmental Science and Ecotechnology</em> 29, 100654.
+    <a href="https://doi.org/10.1016/j.ese.2025.100654">DOI</a>
+  </li>
+</ol>
+
+<div style="font-size:18pt; font-weight:bold; margin-top:1em; margin-bottom:0.5em;">2025</div>
+<ol start="3">
+  <li>
+    <span style="color:#1f77b4;">
+      <strong>Liu, Q.</strong>, Ouyang, X., Zhu, W., Sun, K., Song, J., Li, X., Li, Y., Chen, W., Liu, G. 2025.
+      <strong>Spatiotemporal Characteristics of Global Building Material Intensity Revealed for Circular and Low-Carbon Construction.</strong>
+      <em>Environmental Science &amp; Technology</em> 59, 24786-24795.
+      <a href="https://doi.org/10.1021/acs.est.5c05684">DOI</a>
+    </span>
+  </li>
+
+  <li>
+    <span style="color:#1f77b4;">
+      Wang, B., <strong>Liu, Q.</strong>*, Ouyang, X., Chen, W., Zhang, Z., Liu, G., Matsubae, K. 2025.
+      <strong>Global hidden material flows triggered by China’s vehicle supply chain far exceed eventual material use.</strong>
+      <em>Nature Communications</em> 16, 9217.
+      <a href="https://doi.org/10.1038/s41467-025-64090-x">DOI</a>
+    </span>
+  </li>
+
+  <li>
+    Sun, K., Li, Q., Dai, M., Guo, H., <strong>Liu, Q.</strong>, Song, J., Chen, Z., Gummidi, S.R.B., Chen, W., Yu, B., Liu, G. 2025.
+    <strong>A global dataset for steel aluminum and cement in-use stocks at 500 m gridded level 2000-2019.</strong>
+    <em>Scientific Data</em> 12, 1560.
+    <a href="https://doi.org/10.1038/s41597-025-05618-0">DOI</a>
+  </li>
+
+  <li>
+    Wang, S., Cai, B., Hou, D., <strong>Liu, Q.</strong>, Zheng, X., Wang, J., Shao, Z. 2025.
+    <strong>Uncovering the location of photovoltaic power plants using heterogeneous remote sensing imagery.</strong>
+    <em>Energy AI</em> 21, 100527.
+    <a href="https://doi.org/10.1016/j.egyai.2025.100527">DOI</a>
+  </li>
+
+  <li>
+    Zhuang, S., <strong>Liu, Q.</strong>, Sun, K., Lutter, S., Chen, R., Liu, G. 2025.
+    <strong>Tracking five decades of global sand and gravel stocks and flows in 184 countries.</strong>
+    <em>Resources, Conservation and Recycling</em> 222, 108460.
+    <a href="https://doi.org/10.1016/j.resconrec.2025.108460">DOI</a>
+  </li>
+
+  <li>
+    Liu, Y.-F., <strong>Liu, Q.</strong>, Wang, C., Zhang, H., Chen, Z., Xu, D., Song, H., Zhao, M., Han, Z. 2025.
+    <strong>Unlocking the recycling potential of dysprosium for balancing supply and demand across Chinese provinces.</strong>
+    <em>Journal of Cleaner Production</em> 524, 146483.
+    <a href="https://doi.org/10.1016/j.jclepro.2025.146483">DOI</a>
+  </li>
+
+  <li>
+    Sun, K., Li, Q., <strong>Liu, Q.</strong>, Song, J., Dai, M., Qian, X., Gummidi, S.R.B., Yu, B., Creutzig, F., Liu, G. 2025.
+    <strong>Urban fabric decoded: High-precision building material identification via deep learning and remote sensing.</strong>
+    <em>Environmental Science and Ecotechnology</em> 24, 100538.
+    <a href="https://doi.org/10.1016/j.ese.2025.100538">DOI</a>
+  </li>
+</ol>
+
+<div style="font-size:18pt; font-weight:bold; margin-top:1em; margin-bottom:0.5em;">2024</div>
+<ol start="10">
+  <li>
+    <span style="color:#1f77b4;">
+      Dai, T., Han, Z., Chen, W., Wen, B., Ouyang, X., Li, Q., Pan, Z., <strong>Liu, Q.</strong>* 2024.
+      <strong>Uncovering Availability of the Secondary Iron Resources in China: Integrating Material Flow Analysis and Secondary Resources Reserve Assessment.</strong>
+      <em>Environmental Science &amp; Technology</em> 58, 15268–15278.
+      <a href="https://doi.org/10.1021/acs.est.3c09975">DOI</a>
+    </span>
+  </li>
+
+  <li>
+    Huang, Z., Bao, Y., Mao, R., Wang, H., Yin, G., Wan, L., et al. 2024.
+    <strong>Big Geodata Reveals Spatial Patterns of Built Environment Stocks Across and Within Cities in China.</strong>
+    <em>Engineering</em> 34, 143–153.
+    <a href="https://doi.org/10.1016/j.eng.2023.05.015">DOI</a>
+  </li>
+
+  <li>
+    Han, Z., <strong>Liu, Q.</strong>, Ouyang, X., Song, H., Gao, T., Liu, Y., Wen, B., Dai, T. 2024.
+    <strong>Tracking two decades of global gallium stocks and flows: A dynamic material flow analysis.</strong>
+    <em>Resources, Conservation and Recycling</em> 202, 107391.
+    <a href="https://doi.org/10.1016/j.resconrec.2023.107391">DOI</a>
+  </li>
+</ol>
+
+<div style="font-size:18pt; font-weight:bold; margin-top:1em; margin-bottom:0.5em;">2023</div>
+<ol start="13">
+  <li>
+    刘艳飞, 李颖, 林子芃, <strong>刘仟策</strong>, 韩中奎. 2023.
+    <strong>中国铝物质流历史变化分析和再生铝资源利用研究.</strong>
+    <em>地球学报</em> 44, 333–340.
+    <a href="https://doi.org/10.3975/cagsb.2022.122801">DOI</a>
+  </li>
+
+  <li>
+    Eheliyagoda, D., Ramanujan, D., Veluri, B., <strong>Liu, Q.</strong>, Liu, G. 2023.
+    <strong>Tracing the multiregional evolution of the global dysprosium demand-supply chain.</strong>
+    <em>Resources, Conservation and Recycling</em> 199, 107245.
+    <a href="https://doi.org/10.1016/j.resconrec.2023.107245">DOI</a>
+  </li>
+
+  <li>
+    Li, X., Song, L., <strong>Liu, Q.</strong>, Ouyang, X., Mao, T., Lu, H., Liu, L., Liu, X., Chen, W., Liu, G. 2023.
+    <strong>Product, building, and infrastructure material stocks dataset for 337 Chinese cities between 1978 and 2020.</strong>
+    <em>Scientific Data</em> 10, 228.
+    <a href="https://doi.org/10.1038/s41597-023-02143-w">DOI</a>
+  </li>
+</ol>
+
+<div style="font-size:18pt; font-weight:bold; margin-top:1em; margin-bottom:0.5em;">2022</div>
+<ol start="16">
+  <li>
+    刘刚, 刘立涛, 欧阳锌, <strong>刘仟策</strong>, 李想, 闫强. 2022.
+    <strong>绿色低碳转型背景下关键金属循环利用战略与对策.</strong>
+    <em>中国科学院院刊</em> 37, 1566–1576.
+    <a href="https://doi.org/10.16418/j.issn.1000-3045.20220830003">DOI</a>
+  </li>
+
+  <li>
+    <span style="color:#1f77b4;">
+      <strong>Liu, Q.</strong>, Sun, K., Ouyang, X., Sen, B., Liu, L., Dai, T., Liu, G. 2022.
+      <strong>Tracking Three Decades of Global Neodymium Stocks and Flows with a Trade-Linked Multiregional Material Flow Analysis.</strong>
+      <em>Environmental Science &amp; Technology</em> 56, 11807–11817.
+      <a href="https://doi.org/10.1021/acs.est.2c02247">DOI</a>
+    </span>
+  </li>
+</ol>
+
+<div style="font-size:18pt; font-weight:bold; margin-top:1em; margin-bottom:0.5em;">2021</div>
+<ol start="18">
+  <li>
+    <span style="color:#1f77b4;">
+      <strong>Liu, Q.</strong>, Liu, L., Liu, X., Li, S., Liu, G. 2021.
+      <strong>Building stock dynamics and the impact of construction bubble and bust on employment in China.</strong>
+      <em>Journal of Industrial Ecology</em> 25, 1631–1643.
+      <a href="https://doi.org/10.1111/jiec.13182">DOI</a>
+    </span>
+  </li>
+</ol>
+
+<div style="font-size:18pt; font-weight:bold; margin-top:1em; margin-bottom:0.5em;">2020</div>
+<ol start="19">
+  <li>
+    Tang, S., Zhang, L., Hao, Y., Chang, Y., Liu, G., <strong>Liu, Q.</strong>, Li, X. 2020.
+    <strong>System dynamics modeling for construction material flows of urban residential building: A case study of Beijing, China.</strong>
+    <em>Resources, Conservation and Recycling</em> 105298.
+    <a href="https://doi.org/10.1016/j.resconrec.2020.105298">DOI</a>
+  </li>
+
+  <li>
+    Chen, W., <strong>Liu, Q.</strong>, Zhang, C., Mi, Z., Zhu, D., Liu, G. 2020.
+    <strong>Characterizing the stocks, flows, and carbon impact of dockless sharing bikes in China.</strong>
+    <em>Resources, Conservation and Recycling</em> 162, 105038.
+    <a href="https://doi.org/10.1016/j.resconrec.2020.105038">DOI</a>
+  </li>
+
+  <li>
+    Mao, R., Bao, Y., Huang, Z., <strong>Liu, Q.</strong>, Liu, G. 2020.
+    <strong>High-Resolution Mapping of the Urban Built Environment Stocks in Beijing.</strong>
+    <em>Environmental Science &amp; Technology</em> 54, 5345–5355.
+    <a href="https://doi.org/10.1021/acs.est.9b07229">DOI</a>
+  </li>
+</ol>
+
+<div style="font-size:18pt; font-weight:bold; margin-top:1em; margin-bottom:0.5em;">2019</div>
+<ol start="22">
+  <li>
+    唐守娟, 张力小, 郝岩, <strong>刘仟策</strong>, 刘宇鹏, 韩骥. 2019.
+    <strong>城市住宅建筑系统流量⁃存量动态模拟——以北京市为例.</strong>
+    <em>生态学报</em> 39, 1240–1247.
+    <a href="https://doi.org/10.5846/stxb201809131977">DOI</a>
+  </li>
+
+  <li>
+    <span style="color:#1f77b4;">
+      <strong>Liu, Q.</strong>, Cao, Z., Liu, X., Liu, L., Dai, T., Han, J., Duan, H., Wang, C., Wang, H., Liu, J., Cai, G., Mao, R., Wang, G., Tan, J., Li, S., Liu, G. 2019.
+      <strong>Product and Metal Stocks Accumulation of China’s Megacities: Patterns, Drivers, and Implications.</strong>
+      <em>Environmental Science &amp; Technology</em> 53, 4128–4139.
+      <a href="https://doi.org/10.1021/acs.est.9b00387">DOI</a>
+    </span>
+  </li>
+</ol>
+
+<div style="font-size:18pt; font-weight:bold; margin-top:1em; margin-bottom:0.5em;">2018</div>
+<ol start="24">
+  <li>
+    <span style="color:#1f77b4;">
+      <strong>刘仟策</strong>, 刘立涛, 刘剑, 李胜功, 白晧, 刘刚. 2018.
+      <strong>重庆市钢铁存量估算及驱动力分析.</strong>
+      <em>资源科学</em> 40, 2341–2350.
+      <a href="https://doi.org/10.18402/resci.2018.12.02">DOI</a>
+    </span>
+  </li>
+</ol>
+
+<div id="awards" style="scroll-margin-top: 90px; font-size:22pt; font-weight:bold; margin-top:1.2em; margin-bottom:0.6em;">Awards</div>
+
+- [Award 1]
+- [Award 2]
+- [Award 3]
