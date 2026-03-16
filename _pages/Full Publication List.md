@@ -5,7 +5,7 @@ permalink: /full-publications/
 author_profile: false
 ---
 
-<div class="section-title">Full Publication List</div>
+
 <hr class="section-rule">
 
 <div style="font-size:18pt; font-weight:bold; margin-top:1em; margin-bottom:0.5em;">2026</div>
