@@ -130,11 +130,54 @@ Qiance Liu is a Boya Postdoctoral Researcher / Assistant Professor at the Colleg
 博士研究访学项目，丹麦 Idella Foundation 基金会，2022.09–2023.06。
 
 
-<div id="conferences" style="scroll-margin-top: 90px; font-size:22pt; font-weight:bold; margin-top:1.2em; margin-bottom:0.6em;">Conferences</div>
+<div id="research-activities" style="scroll-margin-top: 90px; font-size:22pt; font-weight:bold; margin-top:1.2em; margin-bottom:0.6em;">Research Activities</div>
 
-- [Conference presentation 1]
-- [Conference presentation 2]
-- [Conference presentation 3]
+<div style="font-size:18pt; font-weight:bold; margin-top:0.8em; margin-bottom:0.4em;">Invited Presentations</div>
+
+1. **2025.09.18**  
+   **中国建筑代谢及其资源-环境-社会效应**, Invited Presentation at **Nanchang University**  
+   刘仟策，博雅博士后、助理研究员，北京大学城市与环境学院  
+   合作导师：刘刚教授
+
+2. **2025.05.20**  
+   **资源循环与行业脱碳模拟研究：以稀土和钢铁为例**, Invited Presentation at **School of Metallurgical and Ecological Engineering, University of Science and Technology Beijing**  
+   刘仟策，北京大学城市与环境学院
+
+<div style="font-size:18pt; font-weight:bold; margin-top:0.8em; margin-bottom:0.4em;">Conference Presentations</div>
+
+1. **2025.07**  
+   **ISIE Biannual Conference 2025**, Poster Presentation, Singapore  
+   ISIE Biannual Conference 2025，海报展示，新加坡
+
+2. **2024.09**  
+   **ISIE-SEM Biannual Conference 2024**, Poster Presentation, Beijing, China  
+   ISIE-SEM Biannual Conference 2024，海报展示，中国北京
+
+3. **2023.07**  
+   **ISIE Biannual Conference 2023**, Oral Presentation, Leiden, the Netherlands  
+   ISIE Biannual Conference 2023，口头报告，荷兰莱顿
+
+4. **2022.07**  
+   **ISIE-SEM Biannual Conference 2022**, Poster Presentation, Vienna, Austria  
+   ISIE-SEM Biannual Conference 2022，海报展示，奥地利维也纳
+
+5. **2021.06**  
+   **Industrial Ecology Day 2021**, Poster Presentation, Virtual Hall  
+   Industrial Ecology Day 2021，海报展示，线上
+
+<div style="font-size:18pt; font-weight:bold; margin-top:0.8em; margin-bottom:0.4em;">Academic Services</div>
+
+1. **2021–2023**  
+   **Board Member**, Chinese Society of Industrial Ecology (CSIE)  
+   Chinese Society of Industrial Ecology（CSIE）理事会成员
+
+2. **2019–Present**  
+   **Member**, International Society of Industrial Ecology (ISIE)  
+   International Society of Industrial Ecology（ISIE）会员
+
+3. **2019–Present**  
+   Reviewer for leading SCI journals, including *Global Environmental Change*, *Resources, Conservation & Recycling*, and *Sustainable Production and Consumption*  
+   自2019年以来担任 *Global Environmental Change*、*Resources, Conservation & Recycling*、*Sustainable Production and Consumption* 等领域知名 SCI 期刊审稿人
 
 <div id="invited-lectures" style="scroll-margin-top: 90px; font-size:22pt; font-weight:bold; margin-top:1.2em; margin-bottom:0.6em;">Invited Lectures</div>
 
@@ -355,6 +398,22 @@ Qiance Liu is a Boya Postdoctoral Researcher / Assistant Professor at the Colleg
 
 <div id="awards" style="scroll-margin-top: 90px; font-size:22pt; font-weight:bold; margin-top:1.2em; margin-bottom:0.6em;">Awards</div>
 
-- [Award 1]
-- [Award 2]
-- [Award 3]
+1. **2025.08**  
+   **Outstanding Young Presentation Award**, 7th Annual Conference on Global Resource Flow and Management Research, Lanzhou  
+   第七届全球资源流动与管理研究学术年会，优秀青年报告，兰州
+
+2. **2021.09**  
+   **China Scholarship Council (CSC) Scholarship for Overseas Doctoral Studies**  
+   中国国家留学基金委（CSC）攻读海外博士研究生奖学金
+
+3. **2021.06**  
+   **Best Poster Award**, Industrial Ecology Day 2021  
+   Industrial Ecology Day 2021，Best Poster Award
+
+4. **2020.01**  
+   **Best Paper Award 2019**, Chinese Society of Industrial Ecology (CSIE)  
+   Chinese Society of Industrial Ecology（CSIE），Best Paper Award 2019
+
+5. **2016 / 2018**  
+   **Outstanding Graduate of Beijing** (awarded twice, provincial/ministerial level)  
+   两次荣获北京市优秀毕业生荣誉（省部级）
