@@ -96,12 +96,12 @@ author_profile: false
     <div class="profile-title">Boya Postdoctoral Researcher / Assistant Professor</div>
 
     <div class="profile-line">
-      College of Urban and Environmental Sciences, Peking University<br>
-      北京大学城市与环境学院
+      <strong>College of Urban and Environmental Sciences, Peking University<br><strong>
+      <strong>北京大学城市与环境学院<strong>
     </div>
 
     <div class="profile-line">
-      Email: <a href="mailto:qianceliu@pku.edu.cn">qianceliu@pku.edu.cn</a>
+      <strong>Email:<strong> <a href="mailto:qianceliu@pku.edu.cn">qianceliu@pku.edu.cn</a>
     </div>
 
     <div class="profile-line profile-links">
@@ -110,7 +110,7 @@ author_profile: false
     </div>
 
     <div class="profile-line">
-      Research interests: sustainable resource management, material cycles, urban metabolism, critical metals, and sectoral decarbonization modelling.
+      <strong>Research interests:<strong> sustainable resource management, material cycles, urban metabolism, critical metals, and sectoral decarbonization modelling.
     </div>
   </div>
 </div>
@@ -120,11 +120,11 @@ author_profile: false
 
 <div class="cn-en-block">
   <p>
-    刘仟策，北京大学城市与环境学院博雅博士后、助理教授，国家级博士后人才专项（海外引才）获得者，主要从事资源可持续管理研究，重点关注<strong>资源流动在温室气体减排和可持续城市发展中的作用机制</strong>。已在 <em>Nature Communications</em>、<em>Environmental Science &amp; Technology</em>（一作/通讯4篇）、<em>Resources, Conservation and Recycling</em>、《中国科学院院刊》等国内外高水平期刊发表论文20余篇，被引超过500次，H指数为10。主持及参与省部级及以上科研项目13项，并担任多个国际期刊审稿人。
+    刘仟策，北京大学城市与环境学院博雅博士后、助理教授，国家级博士后人才专项（海外引才）获得者，主要从事资源可持续管理研究，重点关注资源流动在温室气体减排和可持续城市发展中的作用机制。已在 <em>Nature Communications</em>、<em>Environmental Science &amp; Technology</em>（一作/通讯4篇）、<em>Resources, Conservation and Recycling</em>、《中国科学院院刊》等国内外高水平期刊发表论文20余篇，被引超过500次，H指数为10。主持及参与省部级及以上科研项目13项，并担任多个国际期刊审稿人。
   </p>
 
   <p>
-    Qiance Liu is a Boya Postdoctoral Researcher / Assistant Professor at the College of Urban and Environmental Sciences, Peking University, and a recipient of the National Postdoctoral Talent Program (Overseas Recruitment Track). His research focuses on sustainable resource management, with particular interests in <strong>the role of resource flows in greenhouse gas mitigation and sustainable urban development</strong>. He has published more than 20 papers in leading journals including <em>Nature Communications</em>, <em>Environmental Science &amp; Technology</em>, and <em>Resources, Conservation and Recycling</em>.
+    Qiance Liu is a Boya Postdoctoral Researcher / Assistant Professor at the College of Urban and Environmental Sciences, Peking University, and a recipient of the National Postdoctoral Talent Program (Overseas Recruitment Track). His research focuses on sustainable resource management, with particular interests in the role of resource flows in greenhouse gas mitigation and sustainable urban development. He has published more than 20 papers in leading journals including <em>Nature Communications</em>, <em>Environmental Science &amp; Technology</em>, and <em>Resources, Conservation and Recycling</em>.
   </p>
 </div>
 
@@ -167,7 +167,7 @@ author_profile: false
 <hr class="section-rule">
 
 <ul class="compact-list">
-  <li><strong>2023.09–Present</strong> &nbsp; Peking University, Boya Postdoctoral Researcher / Assistant Researcher</li>
+  <li><strong>2023.09–Present</strong> &nbsp; Peking University, Boya Postdoctoral Researcher / Assistant Professor</li>
   <li><strong>2023.05–2023.08</strong> &nbsp; National University of Singapore, Postdoctoral Researcher</li><p style="margin-bottom: 1rem; line-height: 1.7;">
   <strong>Summary:</strong> 24 academic publications; more than
   <a href="https://scholar.google.com/citations?hl=zh-CN&user=1FnI3BMAAAAJ" target="_blank">500 citations</a>;
