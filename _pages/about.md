@@ -5,6 +5,7 @@ permalink: /
 author_profile: true
 ---
 
+
 <div id="biography" style="scroll-margin-top: 90px; font-size:22pt; font-weight:bold; margin-top:0.8em; margin-bottom:0.6em;">Biography</div>
 
 Qiance Liu is a Boya Postdoctoral Researcher / Assistant Professor at the College of Urban and Environmental Sciences, Peking University. His research focuses on material cycles, urban metabolism, resource utilization, recycling, and sectoral decarbonization modelling, with particular interests in how urban material flows and circularity contribute to greenhouse gas mitigation and sustainable urban development.
