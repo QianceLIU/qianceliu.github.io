@@ -21,6 +21,7 @@ author_profile: false
 .subsection-title {
   font-size: 1.15rem;
   font-weight: 700;
+  color: #1f4e8c;
   margin-top: 0.8rem;
   margin-bottom: 0.4rem;
 }
