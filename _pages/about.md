@@ -8,13 +8,11 @@ author_profile: true
 
 <div id="biography" style="scroll-margin-top: 90px; font-size:22pt; font-weight:bold; margin-top:0.8em; margin-bottom:0.6em;">Biography</div>
 
-**English**
+刘仟策，北京大学城市与环境学院博雅博士后、助理教授，国家级博士后人才专项（海外引才）获得者，主要从事资源可持续管理研究，重点关注城市物质流与循环性在温室气体减排和可持续城市发展中的作用机制。已在 *Nature Communications*、*Environmental Science & Technology*（一作/通讯4篇）、*Resources, Conservation and Recycling*、《中国科学院院刊》等国内外高水平期刊发表论文20余篇，被引超过500次，H指数为10。主持及参与省部级及以上科研项目13项，其中主持国家自然科学基金青年科学基金项目（C类）、中国博士后科学基金面上资助以及全国/省重点实验室开放基金2项，并担任国家自然科学基金重点项目课题负责人、深地国家科技重大专项子课题负责人。同时担任 *Global Environmental Change*、*Sustainable Production and Consumption* 等多个国际期刊审稿人。
 
 Qiance Liu is a Boya Postdoctoral Researcher / Assistant Professor at the College of Urban and Environmental Sciences, Peking University, and a recipient of the National Postdoctoral Talent Program (Overseas Recruitment Track). His research focuses on material cycles, urban metabolism, resource utilization, recycling, and sectoral decarbonization modelling, with particular interests in how urban material flows and circularity contribute to greenhouse gas mitigation and sustainable urban development. He has published more than 20 papers in leading international and Chinese journals, including *Nature Communications*, *Environmental Science & Technology* (with four first-author/corresponding-author papers), *Resources, Conservation and Recycling*, and *Bulletin of Chinese Academy of Sciences*. His work has been cited over 500 times, with an H-index of 10. He has led and participated in 13 research projects at the provincial-ministerial level and above, including as Principal Investigator of the National Natural Science Foundation of China Young Scientists Fund (Category C), the China Postdoctoral Science Foundation General Program, and two open funds from national/provincial key laboratories. He also serves as a task leader in a Key Program of the National Natural Science Foundation of China and as a subproject leader in the National Major Program on Deep Earth Exploration. In addition, he is an active reviewer for several international journals, including *Global Environmental Change* and *Sustainable Production and Consumption*.
 
-**中文**
 
-刘仟策，北京大学城市与环境学院博雅博士后、助理教授，国家级博士后人才专项（海外引才）获得者，主要从事资源可持续管理研究，重点关注城市物质流与循环性在温室气体减排和可持续城市发展中的作用机制。已在 *Nature Communications*、*Environmental Science & Technology*（一作/通讯4篇）、*Resources, Conservation and Recycling*、《中国科学院院刊》等国内外高水平期刊发表论文20余篇，被引超过500次，H指数为10。主持及参与省部级及以上科研项目13项，其中主持国家自然科学基金青年科学基金项目（C类）、中国博士后科学基金面上资助以及全国/省重点实验室开放基金2项，并担任国家自然科学基金重点项目课题负责人、深地国家科技重大专项子课题负责人。同时担任 *Global Environmental Change*、*Sustainable Production and Consumption* 等多个国际期刊审稿人。
 
 <div id="education" style="scroll-margin-top: 90px; font-size:22pt; font-weight:bold; margin-top:1.2em; margin-bottom:0.6em;">Education</div>
 
@@ -178,12 +176,6 @@ Qiance Liu is a Boya Postdoctoral Researcher / Assistant Professor at the Colleg
 3. **2019–Present**  
    Reviewer for leading SCI journals, including *Global Environmental Change*, *Resources, Conservation & Recycling*, and *Sustainable Production and Consumption*  
    自2019年以来担任 *Global Environmental Change*、*Resources, Conservation & Recycling*、*Sustainable Production and Consumption* 等领域知名 SCI 期刊审稿人
-
-<div id="invited-lectures" style="scroll-margin-top: 90px; font-size:22pt; font-weight:bold; margin-top:1.2em; margin-bottom:0.6em;">Invited Lectures</div>
-
-- [Invited lecture 1]
-- [Invited lecture 2]
-- [Invited lecture 3]
 
 <div id="publications" style="scroll-margin-top: 90px; font-size:22pt; font-weight:bold; margin-top:1.2em; margin-bottom:0.6em;">Publications</div>
 
