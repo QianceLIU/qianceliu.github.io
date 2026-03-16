@@ -216,7 +216,7 @@ author_profile: false
 </div>
 
 <div class="pub-item">
-  <div class="pub-title">[7] <strong>刘仟策</strong>, 刘立涛, 刘剑, 李胜功, 白晧, 刘刚. 2018. 重庆市钢铁存量估算及驱动力分析. <strong><em>资源科学</em></strong> 40, 2341–2350. <a href="https://doi.org/10.18402/resci.2018.12.02">DOI</a>
+  <div class="pub-title">[7] <strong>刘仟策</strong>, 刘立涛, 刘剑, 李胜功, 白晧, 刘刚. 2018. 重庆市钢铁存量估算及驱动力分析. <strong><em>资源科学</em></strong> 40, 2341–2350. <a href="https://doi.org/10.18402/resci.2018.12.02">DOI</a></div>
 </div>
 
 <p><a href="/full-publications/">View full publication list →</a></p>
