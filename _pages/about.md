@@ -294,7 +294,7 @@ author_profile: false
   <li><strong>2021.09</strong> China Scholarship Council (CSC) Scholarship for Overseas Doctoral Studies</li>
   <li><strong>2021.06</strong> Best Poster Award, Industrial Ecology Day 2021</li>
   <li><strong>2020.01</strong> Best Paper Award 2019, Chinese Society of Industrial Ecology (CSIE)</li>
-  <li><strong>2016 / 2018</strong> Outstanding Graduate of Beijing</li>
+  <li><strong>2016 / 2018</strong> Outstanding Graduate of Beijing (Twice)</li>
 </ul>
 
 
