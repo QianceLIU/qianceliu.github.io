@@ -186,7 +186,7 @@ author_profile: false
 <hr class="section-rule">
 
 <p class="summary-blue">
-  <strong>Summary:</strong> 24 academic publications; more than
+  <strong>Summary:</strong> 24 peer-reviewed journal airticles; more than
   <a href="https://scholar.google.com/citations?hl=zh-CN&user=1FnI3BMAAAAJ" target="_blank">500 citations</a>;
   <a href="https://scholar.google.com/citations?hl=zh-CN&user=1FnI3BMAAAAJ" target="_blank">H-index of 10</a>.
 </p>
