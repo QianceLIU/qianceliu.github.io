@@ -23,6 +23,7 @@ author_profile: false
   align-items: flex-start;
   flex-wrap: wrap;
   margin-bottom: 1.5rem;
+  max-width: 900px;
 }
 .profile-photo img {
   width: 260px;
