@@ -121,7 +121,7 @@ author_profile: false
     </div>
 
   <div class="profile-line">
-    <strong>Research interests:</strong> Sustainable resource management,Sectoral decarbonization, Material flow analysis, Industrial ecology.
+    <strong>Research interests:</strong> Sustainable resource management, sectoral decarbonization, material flow analysis, and industrial ecology.
   </div>
   </div>
 </div>
