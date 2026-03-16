@@ -82,6 +82,16 @@ author_profile: false
   margin-top: 0.8rem;
   margin-bottom: 0.4rem;
 }
+.info-bold {
+  font-weight: 700;
+}
+
+.summary-blue {
+  margin-bottom: 1rem;
+  line-height: 1.7;
+  color: #1f4e8c;
+  font-size: 1.1rem;
+}
 </style>
 
 <div class="homepage-name">Qiance Liu 刘仟策</div>
@@ -95,23 +105,23 @@ author_profile: false
   <div class="profile-info">
     <div class="profile-title">Boya Postdoctoral Researcher / Assistant Professor</div>
 
-    <div class="profile-line">
-      <strong>College of Urban and Environmental Sciences, Peking University<br><strong>
-      <strong>北京大学城市与环境学院<strong>
-    </div>
+  <div class="profile-line info-bold">
+    College of Urban and Environmental Sciences, Peking University<br>
+    北京大学城市与环境学院
+  </div>
 
-    <div class="profile-line">
-      <strong>Email:<strong> <a href="mailto:qianceliu@pku.edu.cn">qianceliu@pku.edu.cn</a>
-    </div>
+  <div class="profile-line">
+    <strong>Email:</strong> <a href="mailto:qianceliu@pku.edu.cn">qianceliu@pku.edu.cn</a>
+  </div>
 
     <div class="profile-line profile-links">
       <a href="https://scholar.google.com/citations?hl=zh-CN&user=1FnI3BMAAAAJ">Google Scholar</a>
       <a href="https://orcid.org/0000-0003-0532-8550">ORCID</a>
     </div>
 
-    <div class="profile-line">
-      <strong>Research interests:<strong> sustainable resource management, material cycles, urban metabolism, critical metals, and sectoral decarbonization modelling.
-    </div>
+  <div class="profile-line">
+    <strong>Research interests:</strong> Sustainable resource management,Sectoral decarbonization, Material flow analysis, Industrial Ecology.
+  </div>
   </div>
 </div>
 
@@ -169,17 +179,13 @@ author_profile: false
 <ul class="compact-list">
   <li><strong>2023.09–Present</strong> &nbsp; Peking University, Boya Postdoctoral Researcher / Assistant Professor</li>
   <li><strong>2023.05–2023.08</strong> &nbsp; National University of Singapore, Postdoctoral Researcher</li><p style="margin-bottom: 1rem; line-height: 1.7;">
-  <strong>Summary:</strong> 24 academic publications; more than
-  <a href="https://scholar.google.com/citations?hl=zh-CN&user=1FnI3BMAAAAJ" target="_blank">500 citations</a>;
-  <a href="https://scholar.google.com/citations?hl=zh-CN&user=1FnI3BMAAAAJ" target="_blank">H-index of 10</a>.
-</p>
   <li><strong>2019.07–2021.02</strong> &nbsp; Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences, Research Assistant</li>
 </ul>
 
 <div id="publications" class="section-title" style="scroll-margin-top: 90px;">Publications</div>
 <hr class="section-rule">
 
-<p style="margin-bottom: 1rem; line-height: 1.7;">
+<p class="summary-blue">
   <strong>Summary:</strong> 24 academic publications; more than
   <a href="https://scholar.google.com/citations?hl=zh-CN&user=1FnI3BMAAAAJ" target="_blank">500 citations</a>;
   <a href="https://scholar.google.com/citations?hl=zh-CN&user=1FnI3BMAAAAJ" target="_blank">H-index of 10</a>.
@@ -225,18 +231,18 @@ author_profile: false
 <div id="projects" class="section-title" style="scroll-margin-top: 90px;">Projects</div>
 <hr class="section-rule">
 
-<p style="margin-bottom: 1rem; line-height: 1.7;">
+<p class="summary-blue">
   <strong>Summary:</strong> Led and participated in 13 research projects at the provincial-ministerial level and above, with cumulative directly managed research funding exceeding RMB 2 million.
 </p>
 
 <div class="pub-item">
-  <div class="pub-title">[2] National Postdoctoral Talent Program (Overseas Recruitment Track)</div>
+  <div class="pub-title">[1] National Postdoctoral Talent Program (Overseas Recruitment Track)</div>
   <strong>Multidimensional Sustainability Assessment of Building Renovation in China under the Dual-Carbon Goals: Resource-Emission-Society Nexus</strong>, 2024–2027, RMB 900,000, Principal Investigator.<br>
   国家级博士后人才专项（海外引才），<strong>“双碳目标”下中国建筑翻新的“资源-排放-社会”多维可持续性评估</strong>，2024–2027，90万元，主持。
 </div>
 
 <div class="pub-item">
-  <div class="pub-title">[1] National Natural Science Foundation of China, Young Scientists Fund (Category C), No. 72504011</div>
+  <div class="pub-title">[2] National Natural Science Foundation of China, Young Scientists Fund (Category C), No. 72504011</div>
   <strong>Regulatory Mechanisms of Secondary Rare Earth Resource Supply Potential and Optimization of Large-Scale Recycling Pathways</strong>, 2026–2028, RMB 300,000, Principal Investigator.<br>
   国家自然科学基金青年科学基金项目（C类），72504011，<strong>稀土二次资源供给潜力调控机制与规模化回收路径优化研究</strong>，2026–2028，30万元，主持。
 </div>
