@@ -597,17 +597,17 @@ author_profile: false
 <div class="pub-item">
   <div class="pub-title">[15] S.C. VAN Foundation (Denmark), Doctoral Research Grant</div>
   <strong>Towards Environmental Sustainability and Economic Viability: Integrating Material Flow Analysis (MFA) and Techno-Economic Assessment (TEA)</strong>, 2023.09–2024.03, 12.5万丹麦克朗.<br>
-  博士研究资助项目，丹麦 S.C. VAN 基金会，<strong>迈向环境可持续性和经济可行性的途径：整合物质流分析（MFA）和技术经济评估（TEA）</strong>，2023.09–2024.03，12.5万丹麦克朗。
+  博士研究资助项目，丹麦 S.C. VAN 基金会，<strong>迈向环境可持续性和经济可行性的途径：整合物质流分析（MFA）和技术经济评估（TEA）</strong>，2023.09–2024.03，125,000 DKK。
 </div>
 
 <div class="pub-item">
   <div class="pub-title">[16] Grethe &amp; Werner Parthum Foundation (Denmark), Doctoral Research Grant</div>
-  <strong>Breaking the Technical, Economic, and Environmental Barriers to Large-Scale Recycling of NdFeB Magnets</strong>, 2023.03–2024.02, 10万丹麦克朗.<br>
+  <strong>Breaking the Technical, Economic, and Environmental Barriers to Large-Scale Recycling of NdFeB Magnets</strong>, 2023.03–2024.02, 100,000DKK.<br>
   博士研究资助项目，丹麦 Grethe &amp; Werner Parthum 基金会，<strong>打破钕铁硼磁体规模化回收的技术、经济和环境障碍</strong>，2023.03–2024.02，10万丹麦克朗。
 </div>
 
 <div class="pub-item">
   <div class="pub-title">[17] Idella Foundation (Denmark), Doctoral Visiting Fellowship</div>
-  2022.09–2023.06, 2.5万丹麦克朗.<br>
+  2022.09–2023.06, 25,000DKK.<br>
   博士研究访学项目，丹麦 Idella Foundation 基金会，2022.09–2023.06，2.5万丹麦克朗。
 </div>
