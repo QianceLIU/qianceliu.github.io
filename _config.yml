@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Qiance Liu (刘仟策)"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Qiance Liu (刘仟策)"
 description              : &description "My research focuses on material cycles and sectoral decarbonization modelling, with a focus on understanding how urban material flows, resource utilization, and recycling contribute to reducing greenhouse gas emissions and advancing sustainable urban development."   # Update this with a general description of your site, this is the default if not overridden by a page
