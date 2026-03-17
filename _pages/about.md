@@ -99,7 +99,14 @@ author_profile: false
   line-height: 1.7;
   color: #1f4e8c;
   font-size: 1.1rem;
+  text-decoration: underline;
 }
+
+.summary-blue a {
+  color: inherit;
+  text-decoration: underline;
+}
+
 
 /* ===== Unified entry style ===== */
 .entry-item {
@@ -132,14 +139,6 @@ author_profile: false
   text-decoration: underline;
 }
 
-.supervisor-link {
-  color: #1f4e8c;
-  text-decoration: none;
-}
-
-.supervisor-link:hover {
-  text-decoration: underline;
-}
  .supervisor-link {
   color: #1f4e8c;
   text-decoration: none;
@@ -268,7 +267,7 @@ author_profile: false
 <hr class="section-rule">
 
 <p class="summary-blue">
-  <strong>Summary:</strong> 24 peer-reviewed journal articles published; more than
+  <strong>Summary:</strong> <strong>24</strong> peer-reviewed journal articles published; more than
   <a href="https://scholar.google.com/citations?hl=zh-CN&user=1FnI3BMAAAAJ" target="_blank">500 citations</a>;
   <a href="https://scholar.google.com/citations?hl=zh-CN&user=1FnI3BMAAAAJ" target="_blank">H-index of 10</a>.
 </p>
@@ -307,7 +306,7 @@ author_profile: false
 <hr class="section-rule">
 
 <p class="summary-blue">
-  <strong>Summary:</strong> Led and participated in 13 research projects at the provincial-ministerial level and above, with cumulative directly managed research funding exceeding RMB 2 million.
+  <strong>Summary:</strong> Led and participated in <strong>13</strong> research projects at the provincial-ministerial level and above, with cumulative directly managed research funding exceeding <strong>RMB 2 million</strong>.
 </p>
 
 <div class="entry-item">
