@@ -254,7 +254,7 @@ author_profile: false
   <div class="entry-title">
     <strong>2023.05–2023.08</strong> &nbsp; National University of Singapore, Postdoctoral Researcher
   </div>
-  Supervisor: <strong><a class="supervisor-link" href="https://envfaculty.bnu.edu.cn/Public/htm/news/5/153.html" target="_blank">Assistant Prof. Yang Guo</a></strong> / 合作导师：<strong>郭扬教授</strong>（现任北京师范大学）
+  Supervisor: <strong><a class="supervisor-link" href="https://envfaculty.bnu.edu.cn/Public/htm/news/5/153.html" target="_blank">Assistant Prof. Yang Guo</a></strong> / 合作导师：<strong>郭扬教授</strong>（现任职于北京师范大学）
 </div>
 
 <div class="entry-item">
