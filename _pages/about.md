@@ -190,7 +190,7 @@ author_profile: false
   <li><strong>2023.09–Present</strong> &nbsp; Peking University, Boya Postdoctoral Researcher / Assistant Professor</li>
   <li>
     <strong>2023.05–2023.08</strong> &nbsp; National University of Singapore, Postdoctoral Researcher<br>
-    Supervisor: <strong><a href="https://envfaculty.bnu.edu.cn/Public/htm/news/5/153.html>Assistant Prof. Yang Guo 郭扬教授（现已入职北京师范大学）</a></strong>
+    Supervisor: <strong><a href="https://envfaculty.bnu.edu.cn/Public/htm/news/5/153.html>Assistant Prof. Yang Guo / 合作导师：郭扬教授（现已入职北京师范大学）</a></strong>
   </li>
   <li><strong>2019.07–2021.02</strong> &nbsp; Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences, Research Assistant</li>
 </ul>
