@@ -140,7 +140,7 @@ author_profile: false
 
 <div class="cn-en-block">
   <p>
-    刘仟策，北京大学城市与环境学院博雅博士后、助理教授，国家级博士后人才专项（海外引才）获得者，主要从事资源可持续管理研究，重点关注资源流动在温室气体减排和可持续城市发展中的作用机制。已在 <em>Nature Communications</em>、<em>Environmental Science &amp; Technology</em>（一作/通讯4篇）、<em>Resources, Conservation and Recycling</em>、《中国科学院院刊》等国内外高水平期刊发表论文20余篇，被引超过500次，H指数为10。主持及参与省部级及以上科研项目13项，并担任多个国际期刊审稿人。
+    刘仟策，北京大学城市与环境学院博雅博士后、助理研究员，国家级博士后人才专项（海外引才）获得者，主要从事资源可持续管理研究，重点关注资源流动在温室气体减排和可持续城市发展中的作用机制。已在 <em>Nature Communications</em>、<em>Environmental Science &amp; Technology</em>（一作/通讯4篇）、<em>Resources, Conservation and Recycling</em>、《中国科学院院刊》等国内外高水平期刊发表论文20余篇，被引超过500次，H指数为10。主持及参与省部级及以上科研项目13项，并担任多个国际期刊审稿人。
   </p>
 
   <p>
@@ -258,7 +258,7 @@ author_profile: false
 
 <div class="pub-item">
   <div class="pub-title">[4] Open Fund of the National Key Laboratory of Low-Carbon Regeneration of Material Cycles, Beijing University of Technology, No. MLCR-2025KF-006</div>
-  <strong>Integrated Resource-Energy-Environment Assessment of the Life Cycle of Building Materials in Chinese Metropolitan Areas under the Dual-Carbon Goals</strong>, 2025-2027, RMB 150,000,oPrincipal Investigator.<br>
+  <strong>Integrated Resource-Energy-Environment Assessment of the Life Cycle of Building Materials in Chinese Metropolitan Areas under the Dual-Carbon Goals</strong>, 2025-2027, RMB 150,000, Principal Investigator.<br>
   北京工业大学材料循环低碳再生全国重点实验室开放基金，MLCR-2025KF-006，<strong>双碳目标下的中国都市圈建筑材料生命周期资源-能源-环境综合评估研究</strong>，2025-2027，15万元，主持。
 </div>
 
