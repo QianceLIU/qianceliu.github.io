@@ -30,7 +30,7 @@ author_profile: false
   line-height: 1.7;
 }
 .pub-title {
-  font-weight: 700;
+  font-weight: normal;
 }
 </style>
 
@@ -39,108 +39,107 @@ author_profile: false
 <div class="subsection-title">Principal Investigator / 主持项目</div>
 
 <div class="pub-item">
-  <div class="pub-title">[1] National Postdoctoral Talent Program (Overseas Recruitment Track)</div>
+  <div class="pub-title">[1] <strong>National Postdoctoral Talent Program (Overseas Recruitment Track)</strong></div>
   <strong>Multidimensional Sustainability Assessment of Building Renovation in China under the Dual-Carbon Goals...</strong>, 2024-09-01 to 2027-08-31, RMB 900,000, ongoing.<br>
-  中组部，博士后海外引进人才专项，<strong>“双碳目标”下中国建筑翻新的...多维可持续性评估</strong>，2024-09-01 至 2027-08-31，90万元，在研，主持。
+  <strong>中组部，博士后海外引进人才专项</strong>，<strong>“双碳目标”下中国建筑翻新的...多维可持续性评估</strong>，2024-09-01 至 2027-08-31，90万元，在研，主持。
 </div>
 
 <div class="pub-item">
-  <div class="pub-title">[2] National Natural Science Foundation of China, Young Scientists Fund (Category C), No. 72504011</div>
+  <div class="pub-title">[2] <strong>National Natural Science Foundation of China, Young Scientists Fund (Category C)</strong>, No. 72504011</div>
   <strong>Regulatory Mechanisms of Secondary Rare Earth Resource Supply Potential and Optimization of Large-Scale Recycling Pathways</strong>, 2026-01-01 to 2028-12-31, RMB 300,000, ongoing.<br>
-  国家自然科学基金委员会，青年科学基金项目（C类），72504011，<strong>稀土二次资源供给潜力调控机制与规模化回收路径优化研究</strong>，2026-01-01 至 2028-12-31，30万元，在研，主持。
+  <strong>国家自然科学基金委员会，青年科学基金项目（C类）</strong>，72504011，<strong>稀土二次资源供给潜力调控机制与规模化回收路径优化研究</strong>，2026-01-01 至 2028-12-31，30万元，在研，主持。
 </div>
 
-
 <div class="pub-item">
-  <div class="pub-title">[3] China Postdoctoral Science Foundation, General Program (77th Batch), No. 2025M771824</div>
+  <div class="pub-title">[3] <strong>China Postdoctoral Science Foundation, General Program (77th Batch)</strong>, No. 2025M771824</div>
   <strong>Supply Potential Regulation and Pathway Optimization of Secondary Rare Earth Resources for Large-Scale Recycling</strong>, 2025-07-01 to 2027-08-31, RMB 50,000, ongoing.<br>
-  中国博士后科学基金会，中国博士后科学基金面上资助（第77批），2025M771824，<strong>面向规模化回收的稀土二次资源供给潜力调控与路径优化</strong>，2025-07-01 至 2027-08-31，5万元，在研，主持。
+  <strong>中国博士后科学基金会，中国博士后科学基金面上资助（第77批）</strong>，2025M771824，<strong>面向规模化回收的稀土二次资源供给潜力调控与路径优化</strong>，2025-07-01 至 2027-08-31，5万元，在研，主持。
 </div>
 
 <div class="pub-item">
-  <div class="pub-title">[4] Peking University Boya Postdoctoral Fellowship</div>
+  <div class="pub-title">[4] <strong>Peking University Boya Postdoctoral Fellowship</strong></div>
   <strong>Assessment of Building Renovation and Its Resource-Environmental Effects in China</strong>, 2024-09-01 to 2026-08-31, RMB 700,000 (talent subsidy), ongoing.<br>
-  北京大学，博雅博士后，<strong>中国建筑翻新及其资源环境效应评估</strong>，2024-09-01 至 2026-08-31，70万元（人才补贴），在研，主持。
+  <strong>北京大学，博雅博士后</strong>，<strong>中国建筑翻新及其资源环境效应评估</strong>，2024-09-01 至 2026-08-31，70万元（人才补贴），在研，主持。
 </div>
 
 <div class="pub-item">
-  <div class="pub-title">[5] Open Fund of the National Key Laboratory of Low-Carbon Regeneration of Material Cycles, Beijing University of Technology, No. MLCR-2025KF-006</div>
+  <div class="pub-title">[5] <strong>Open Fund of the National Key Laboratory of Low-Carbon Regeneration of Material Cycles, Beijing University of Technology</strong>, No. MLCR-2025KF-006</div>
   <strong>Integrated Resource-Energy-Environment Assessment of the Life Cycle of Building Materials in Chinese Metropolitan Areas under the Dual-Carbon Goals</strong>, 2025-09-01 to 2027-08-31, RMB 150,000, ongoing.<br>
-  北京工业大学，材料循环低碳再生全国重点实验室开放基金，MLCR-2025KF-006，<strong>双碳目标下的中国都市圈建筑材料生命周期资源-能源-环境综合评估研究</strong>，2025-09-01 至 2027-08-31，15万元，在研，主持。
+  <strong>北京工业大学，材料循环低碳再生全国重点实验室开放基金</strong>，MLCR-2025KF-006，<strong>双碳目标下的中国都市圈建筑材料生命周期资源-能源-环境综合评估研究</strong>，2025-09-01 至 2027-08-31，15万元，在研，主持。
 </div>
 
-
 <div class="pub-item">
-  <div class="pub-title">[6] Open Fund of Shanxi Key Laboratory of Surface Processes and Resource Ecological Security in the Fenhe River Basin, Taiyuan Normal University, No. FHKF202505</div>
+  <div class="pub-title">[6] <strong>Open Fund of Shanxi Key Laboratory of Surface Processes and Resource Ecological Security in the Fenhe River Basin, Taiyuan Normal University</strong>, No. FHKF202505</div>
   <strong>Resource Utilization Pathways and Eco-Environmental Effects of Industrial Solid Waste in Typical Areas of Shanxi</strong>, 2025-10-01 to 2027-09-30, RMB 20,000, ongoing.<br>
-  太原师范学院，汾河流域地表过程与资源生态安全山西省重点实验室开放基金，FHKF202505，<strong>山西典型区域工业固废资源化利用路径及生态环境效应研究</strong>，2025-10-01 至 2027-09-30，2万元，在研，主持。
+  <strong>太原师范学院，汾河流域地表过程与资源生态安全山西省重点实验室开放基金</strong>，FHKF202505，<strong>山西典型区域工业固废资源化利用路径及生态环境效应研究</strong>，2025-10-01 至 2027-09-30，2万元，在研，主持。
 </div>
 
 <div class="subsection-title">Co-Investigator / 参与项目</div>
 
 <div class="pub-item">
-  <div class="pub-title">[7] National Major Program on Deep Earth Exploration, No. 2025ZD1007000</div>
+  <div class="pub-title">[7] <strong>National Major Program on Deep Earth Exploration</strong>, No. 2025ZD1007000</div>
   <strong>Security Evaluation and Global Strategy Research on Strategic Mineral Resource Industrial and Supply Chains</strong>, 2025-08-01 to 2029-07-31, RMB 3,000,000, ongoing, Topic Leader.<br>
-  自然资源部，深地国家科技重大专项，2025ZD1007000，<strong>战略性矿产资源产业链供应链安全评价与全球战略研究</strong>，2025-08-01 至 2029-07-31，300万元，在研，参与（专题负责人；所在课题：<strong>全球战略性矿产资源供需格局演变及对中国供应安全研究</strong>，2025ZD1007001）。
+  <strong>自然资源部，深地国家科技重大专项</strong>，2025ZD1007000，<strong>战略性矿产资源产业链供应链安全评价与全球战略研究</strong>，2025-08-01 至 2029-07-31，300万元，在研，参与（专题负责人；所在课题：<strong>全球战略性矿产资源供需格局演变及对中国供应安全研究</strong>，2025ZD1007001）。
 </div>
 
 <div class="pub-item">
-  <div class="pub-title">[8] NSFC Key Program, No. 42530502</div>
+  <div class="pub-title">[8] <strong>NSFC Key Program</strong>, No. 42530502</div>
   <strong>Dynamics of Strategic Resource Flows and Geo-Security Risk Assessment under Global Change</strong>, 2026-01-01 to 2030-12-31, RMB 2,190,000, ongoing, Subproject Leader.<br>
-  国家自然科学基金委员会，重点项目，42530502，<strong>全球变化背景下战略资源流动态势与地缘安全风险评估</strong>，2026-01-01 至 2030-12-31，219万元，在研，参与（课题负责人）。
+  <strong>国家自然科学基金委员会，重点项目</strong>，42530502，<strong>全球变化背景下战略资源流动态势与地缘安全风险评估</strong>，2026-01-01 至 2030-12-31，219万元，在研，参与（课题负责人）。
 </div>
 
 <div class="pub-item">
-  <div class="pub-title">[9] NSFC Key Program, No. 72334001</div>
+  <div class="pub-title">[9] <strong>NSFC Key Program</strong>, No. 72334001</div>
   <strong>Multi-Scale Risk Assessment and Security Strategies for the Whole Industrial Chain of Strategic Scarce Metal Resources</strong>, 2024-01-01 to 2028-12-31, RMB 2,190,000, ongoing.<br>
-  国家自然科学基金委员会，重点项目，72334001，<strong>战略性稀缺金属资源全产业链多尺度风险评估与安全保障策略</strong>，2024-01-01 至 2028-12-31，219万元，在研，参与。
+  <strong>国家自然科学基金委员会，重点项目</strong>，72334001，<strong>战略性稀缺金属资源全产业链多尺度风险评估与安全保障策略</strong>，2024-01-01 至 2028-12-31，219万元，在研，参与。
 </div>
 
 <div class="pub-item">
-  <div class="pub-title">[10] Ministry of Education, Discipline Breakthrough Pilot Project, No. XXXXXX</div>
+  <div class="pub-title">[10] <strong>Ministry of Education, Discipline Breakthrough Pilot Project</strong>, No. XXXXXX</div>
   <strong>Pilot Project for Digital Ecological Civilization Discipline Breakthrough</strong>, 2025-01-01 to 2029-12-31, RMB 57.904 million (central funding), ongoing.<br>
-  教育部，学科突破先导项目，XXXXXX，<strong>数字生态文明学科突破先导项目</strong>，2025-01-01 至 2029-12-31，5790.4万元（国拨），在研，参与。
+  <strong>教育部，学科突破先导项目</strong>，XXXXXX，<strong>数字生态文明学科突破先导项目</strong>，2025-01-01 至 2029-12-31，5790.4万元（国拨），在研，参与。
 </div>
 
 <div class="pub-item">
-  <div class="pub-title">[11] Ministry of Education, Major Project of Philosophy and Social Sciences Research, No. 23JZD018</div>
+  <div class="pub-title">[11] <strong>Ministry of Education, Major Project of Philosophy and Social Sciences Research</strong>, No. 23JZD018</div>
   <strong>National Security Governance of China’s Strategic Mineral Resources from a Global Governance Perspective</strong>, 2024-01-01 to 2026-12-31, RMB 800,000, ongoing.<br>
-  教育部，哲学社会科学研究重大课题攻关项目，23JZD018，<strong>全球治理视野下我国战略性矿产资源国家安全治理研究</strong>，2024-01-01 至 2026-12-31，80万元，在研，参与。
+  <strong>教育部，哲学社会科学研究重大课题攻关项目</strong>，23JZD018，<strong>全球治理视野下我国战略性矿产资源国家安全治理研究</strong>，2024-01-01 至 2026-12-31，80万元，在研，参与。
 </div>
 
 <div class="pub-item">
-  <div class="pub-title">[12] NSFC International (Regional) Cooperation and Exchange Program, No. W2621014</div>
+  <div class="pub-title">[12] <strong>NSFC International (Regional) Cooperation and Exchange Program</strong>, No. W2621014</div>
   <strong>Multidimensional Sustainability Assessment of Low-Carbon and High-Efficiency Electrochemical Regeneration Technologies for Critical Metals</strong>, 2026-04-01 to 2028-12-31, RMB 140,000, ongoing.<br>
-  国家自然科学基金委员会，国际（地区）合作与交流项目，W2621014，<strong>关键金属低碳高效电化学再生技术的多维可持续评价</strong>，2026-04-01 至 2028-12-31，14万元，在研，参与。
+  <strong>国家自然科学基金委员会，国际（地区）合作与交流项目</strong>，W2621014，<strong>关键金属低碳高效电化学再生技术的多维可持续评价</strong>，2026-04-01 至 2028-12-31，14万元，在研，参与。
 </div>
 
 <div class="pub-item">
-  <div class="pub-title">[13] Shenzhen Science and Technology Innovation Bureau, Key Industrial R&amp;D Program (Sustainable Development Track), No. 重202511003</div>
+  <div class="pub-title">[13] <strong>Shenzhen Science and Technology Innovation Bureau, Key Industrial R&amp;D Program (Sustainable Development Track)</strong>, No. 重202511003</div>
   <strong>R&amp;D and Demonstration of Intelligent Carbon Footprint Accounting Technologies for New Energy Battery Products</strong>, 2026-01-01 to 2029-12-31, RMB 5,000,000, ongoing.<br>
-  深圳市科技创新局，重点产业研发计划（可持续发展专项），重202511003，<strong>新能源电池产品碳足迹智能核算技术研发与应用示范</strong>，2026-01-01 至 2029-12-31，500万元，在研，参与。
+  <strong>深圳市科技创新局，重点产业研发计划（可持续发展专项）</strong>，重202511003，<strong>新能源电池产品碳足迹智能核算技术研发与应用示范</strong>，2026-01-01 至 2029-12-31，500万元，在研，参与。
 </div>
 
 <div class="pub-item">
-  <div class="pub-title">[14] NSFC Major Program, No. 71991484</div>
+  <div class="pub-title">[14] <strong>NSFC Major Program</strong>, No. 71991484</div>
   <strong>Spatiotemporal Dynamics and Recycling Potential of Strategic Critical Metals from a Life-Cycle Perspective</strong>, 2020-01-01 to 2024-12-31, RMB 2,850,000, completed.<br>
-  国家自然科学基金委员会，重大项目，71991484，<strong>基于全生命周期的战略性关键金属矿产循环利用时空规律与再生潜力评估</strong>，2020-01-01 至 2024-12-31，285万元，结题，参与。
+  <strong>国家自然科学基金委员会，重大项目</strong>，71991484，<strong>基于全生命周期的战略性关键金属矿产循环利用时空规律与再生潜力评估</strong>，2020-01-01 至 2024-12-31，285万元，结题，参与。
 </div>
 
 <div class="subsection-title">Other Academic Funding / 其他学术资助</div>
 
 <div class="pub-item">
-  <div class="pub-title">[15] S.C. VAN Foundation (Denmark), Doctoral Research Grant</div>
+  <div class="pub-title">[15] <strong>S.C. VAN Foundation (Denmark), Doctoral Research Grant</strong></div>
   <strong>Towards Environmental Sustainability and Economic Viability: Integrating Material Flow Analysis (MFA) and Techno-Economic Assessment (TEA)</strong>, 2023.09–2024.03, 125,000 DKK.<br>
-  博士研究资助项目，丹麦 S.C. VAN 基金会，<strong>迈向环境可持续性和经济可行性的途径：整合物质流分析（MFA）和技术经济评估（TEA）</strong>，2023.09–2024.03，12.5万丹麦克朗。
+  <strong>博士研究资助项目，丹麦 S.C. VAN 基金会</strong>，<strong>迈向环境可持续性和经济可行性的途径：整合物质流分析（MFA）和技术经济评估（TEA）</strong>，2023.09–2024.03，12.5万丹麦克朗。
 </div>
 
 <div class="pub-item">
-  <div class="pub-title">[16] Grethe &amp; Werner Parthum Foundation (Denmark), Doctoral Research Grant</div>
+  <div class="pub-title">[16] <strong>Grethe &amp; Werner Parthum Foundation (Denmark), Doctoral Research Grant</strong></div>
   <strong>Breaking the Technical, Economic, and Environmental Barriers to Large-Scale Recycling of NdFeB Magnets</strong>, 2023.03–2024.02, 100,000 DKK.<br>
-  博士研究资助项目，丹麦 Grethe &amp; Werner Parthum 基金会，<strong>打破钕铁硼磁体规模化回收的技术、经济和环境障碍</strong>，2023.03–2024.02，10万丹麦克朗。
+  <strong>博士研究资助项目，丹麦 Grethe &amp; Werner Parthum 基金会</strong>，<strong>打破钕铁硼磁体规模化回收的技术、经济和环境障碍</strong>，2023.03–2024.02，10万丹麦克朗。
 </div>
 
 <div class="pub-item">
-  <div class="pub-title">[17] Idella Foundation (Denmark), Doctoral Visiting Fellowship, 2022.09–2023.06, 25,000 DKK.<br>
-  博士研究访学项目，丹麦 Idella Foundation 基金会，2022.09–2023.06，2.5万丹麦克朗。
+  <div class="pub-title">[17] <strong>Idella Foundation (Denmark), Doctoral Visiting Fellowship</strong></div>
+  2022.09–2023.06, 25,000 DKK.<br>
+  <strong>博士研究访学项目，丹麦 Idella Foundation 基金会</strong>，2022.09–2023.06，2.5万丹麦克朗。
 </div>
