@@ -268,8 +268,8 @@ author_profile: false
 
 <p class="summary-blue">
   <strong>Summary:</strong> <strong>24</strong> peer-reviewed journal articles published; more than
-  <a href="https://scholar.google.com/citations?hl=zh-CN&user=1FnI3BMAAAAJ" target="_blank">500 citations</a>;
-  <a href="https://scholar.google.com/citations?hl=zh-CN&user=1FnI3BMAAAAJ" target="_blank">H-index of 10</a>.
+  <a href="https://scholar.google.com/citations?hl=zh-CN&user=1FnI3BMAAAAJ" target="_blank"><strong>500 </strong>citations</a>;
+  <a href="https://scholar.google.com/citations?hl=zh-CN&user=1FnI3BMAAAAJ" target="_blank">H-index of <strong>10</strong></a>.
 </p>
 
 <div class="entry-item">
