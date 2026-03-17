@@ -41,4 +41,13 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-
+/* ===== Custom width adjustment ===== */
+.masthead__inner-wrap,
+.masthead__menu,
+.greedy-nav,
+.initial-content,
+#main {
+  max-width: 1040px !important;
+  margin-left: auto;
+  margin-right: auto;
+}
