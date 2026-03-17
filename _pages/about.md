@@ -102,6 +102,14 @@ author_profile: false
 .compact-list a:hover {
   text-decoration: underline;
 }
+.supervisor-link {
+  color: #1f4e8c;
+  text-decoration: none;
+}
+
+.supervisor-link:hover {
+  text-decoration: underline;
+}
 </style>
 
 <div class="homepage-name">Qiance Liu 刘仟策</div>
@@ -155,33 +163,36 @@ author_profile: false
   <li>
     <strong>2021.03–2024.03</strong> &nbsp; <strong>University of Southern Denmark</strong>, Ph.D. in Environmental Engineering<br>
     南丹麦大学，环境工程专业，工学博士<br>
-    Supervisor: <strong><a href="https://www.ues.pku.edu.cn/jszy/lg_jsjl/grjj_lg/61411781af8346ca8bfa44bc6c7a0083.htm>Prof. Gang Liu</a></strong> / 导师：<strong><a href="https://www.ues.pku.edu.cn/jszy/lg_jsjl/grjj_lg/61411781af8346ca8bfa44bc6c7a0083.htm" target="_blank">刘刚 教授</a></strong>
+    Supervisor: <strong><a class="supervisor-link" href="https://www.ues.pku.edu.cn/jszy/lg_jsjl/grjj_lg/61411781af8346ca8bfa44bc6c7a0083.htm" target="_blank">Prof. Gang Liu</a></strong> / 导师：<strong><a href="https://www.ues.pku.edu.cn/jszy/lg_jsjl/grjj_lg/61411781af8346ca8bfa44bc6c7a0083.htm" target="_blank">刘刚 教授</a></strong>
   </li>
 
   <li>
     <strong>2023.03–2024.03</strong> &nbsp; <strong>Delft University of Technology</strong>, Joint Ph.D. Training in Materials Science and Engineering<br>
     代尔夫特理工大学，材料科学与工程专业，博士联合培养<br>
-    Supervisor: <strong><a href="https://www.tudelft.nl/en/staff/y.yang/>Associate Prof. Yongxiang Yang</a></strong> / 导师：<strong><a href="https://www.tudelft.nl/en/staff/y.yang/" target="_blank">杨永祥 副教授</a></strong>
+    Supervisor: <strong><a class="supervisor-link" href="https://www.tudelft.nl/en/staff/y.yang/" target="_blank">Associate Prof. Yongxiang Yang</a></strong> / 导师：<strong><a href="https://www.tudelft.nl/en/staff/y.yang/" target="_blank">杨永祥 副教授</a></strong>
   </li>
 
   <li>
     <strong>2016.09–2019.06</strong> &nbsp; <strong>University of Chinese Academy of Sciences</strong>, M.S. in Environmental Science<br>
     中国科学院大学，环境科学专业，理学硕士<br>
-    Supervisor: <strong><a href="https://igsnrr.cas.cn/sourcedb/zw/zjrck/200906/t20090626_1842282.html>Prof. Shenggong Li</a></strong> / 导师：<strong><a href="https://igsnrr.cas.cn/sourcedb/zw/zjrck/200906/t20090626_1842282.html" target="_blank">李胜功 研究员</a></strong>
+    Supervisor: <strong><a class="supervisor-link" href="https://igsnrr.cas.cn/sourcedb/zw/zjrck/200906/t20090626_1842282.html" target="_blank">Prof. Shenggong Li</a></strong> / 导师：<strong><a href="https://igsnrr.cas.cn/sourcedb/zw/zjrck/200906/t20090626_1842282.html" target="_blank">李胜功 研究员</a></strong>
   </li>
 
   <li>
     <strong>2016.09–2018.12</strong> &nbsp; <strong>University of Copenhagen</strong>, M.S. in Water and Environment (Dual Degree)<br>
     哥本哈根大学，水与环境专业，理学硕士（双学位）<br>
-    Supervisor: <strong><a href="https://www.ues.pku.edu.cn/jszy/lg_jsjl/grjj_lg/61411781af8346ca8bfa44bc6c7a0083.htm>Prof. Gang Liu</a></strong> / 导师：<strong><a href="https://www.ues.pku.edu.cn/jszy/lg_jsjl/grjj_lg/61411781af8346ca8bfa44bc6c7a0083.htm" target="_blank">刘刚 教授</a></strong>
+    Supervisor: <strong><a class="supervisor-link" href="https://www.ues.pku.edu.cn/jszy/lg_jsjl/grjj_lg/61411781af8346ca8bfa44bc6c7a0083.htm" target="_blank">Prof. Gang Liu</a></strong> / 导师：<strong><a href="https://www.ues.pku.edu.cn/jszy/lg_jsjl/grjj_lg/61411781af8346ca8bfa44bc6c7a0083.htm" target="_blank">刘刚 教授</a></strong>
   </li>
 
   <li>
     <strong>2012.09–2016.06</strong> &nbsp; <strong>University of Science and Technology Beijing</strong>, B.S. in Ecology<br>
     北京科技大学，生态学专业，理学学士<br>
-    Supervisor: <strong><a href="https://metall.ustb.edu.cn/szdw/jsjs/c4e269bf986b43c686bff2cb549ef772.htm>Prof. Hao Bai</a></strong> / 导师：<strong><a href="https://metall.ustb.edu.cn/szdw/jsjs/c4e269bf986b43c686bff2cb549ef772.htm" target="_blank">白晧 教授</a></strong>
+    Supervisor: <strong><a class="supervisor-link" href="https://metall.ustb.edu.cn/szdw/jsjs/c4e269bf986b43c686bff2cb549ef772.htm" target="_blank">Prof. Hao Bai</a></strong> / 导师：<strong><a href="https://metall.ustb.edu.cn/szdw/jsjs/c4e269bf986b43c686bff2cb549ef772.htm" target="_blank">白晧 教授</a></strong>
   </li>
 </ul>
+
+<div id="working-experiences" class="section-title" style="scroll-margin-top: 90px;">Working Experiences</div>
+<hr class="section-rule">
 
 <div id="working-experiences" class="section-title" style="scroll-margin-top: 90px;">Working Experiences</div>
 <hr class="section-rule">
@@ -190,13 +201,10 @@ author_profile: false
   <li><strong>2023.09–Present</strong> &nbsp; Peking University, Boya Postdoctoral Researcher / Assistant Professor</li>
   <li>
     <strong>2023.05–2023.08</strong> &nbsp; National University of Singapore, Postdoctoral Researcher<br>
-    Supervisor: <strong><a href="https://envfaculty.bnu.edu.cn/Public/htm/news/5/153.html" target="_blank">Assistant Prof. Yang Guo</a></strong> / 合作导师：<strong><a href="https://envfaculty.bnu.edu.cn/Public/htm/news/5/153.html" target="_blank">郭扬教授</a></strong>（现已入职北京师范大学）
+    Supervisor: <strong><a class="supervisor-link" href="https://envfaculty.bnu.edu.cn/Public/htm/news/5/153.html" target="_blank">Assistant Prof. Yang Guo</a></strong> / 合作导师：<strong>郭扬教授</strong>（现任北京师范大学）
   </li>
   <li><strong>2019.07–2021.02</strong> &nbsp; Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences, Research Assistant</li>
 </ul>
-
-<div id="publications" class="section-title" style="scroll-margin-top: 90px;">Publications</div>
-<hr class="section-rule">
 
 <p class="summary-blue">
   <strong>Summary:</strong> 24 peer-reviewed journal articles; more than
