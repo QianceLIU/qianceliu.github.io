@@ -41,10 +41,15 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-
-/* ===== Adjust masthead width only ===== */
+/* ===== Adjust masthead alignment ===== */
 .masthead__inner-wrap {
   max-width: 1040px !important;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.greedy-nav {
+  max-width: 1040px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
