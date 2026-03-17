@@ -42,13 +42,9 @@
     "vendor/font-awesome/brands"
 ;
 
-/* ===== Custom width adjustment ===== */
-.masthead__inner-wrap,
-.masthead__menu,
-.greedy-nav,
-.initial-content,
-#main {
-  max-width: 1200px !important;
+/* ===== Adjust masthead width only ===== */
+.masthead__inner-wrap {
+  max-width: 1100px !important;
   margin-left: auto;
   margin-right: auto;
 }
