@@ -96,7 +96,7 @@ author_profile: false
 
 <div class="pub-item">
   <div class="pub-title">[10] <strong>Ministry of Education, Discipline Breakthrough Pilot Project</strong>, No. XXXXXX</div>
-  Pilot Project for Digital Ecological Civilization Discipline Breakthrough, 2025-01-01 to 2029-12-31, RMB 57.904 million (central funding), in progress.<br>
+  Pilot Project for Digital Ecological Civilization Discipline Breakthrough, 2025-01-01 to 2029-12-31, RMB 57.904 million, in progress.<br>
   <strong>教育部，学科突破先导项目</strong>，XXXXXX，数字生态文明学科突破先导项目，2025-01-01 至 2029-12-31，5790.4万元（国拨），在研，参与。
 </div>
 
@@ -128,18 +128,18 @@ author_profile: false
 
 <div class="pub-item">
   <div class="pub-title">[15] <strong>S.C. VAN Foundation (Denmark), Doctoral Research Grant</strong></div>
-  Towards Environmental Sustainability and Economic Viability: Integrating Material Flow Analysis (MFA) and Techno-Economic Assessment (TEA), 2023.09–2024.03, 125,000 DKK.<br>
-  <strong>博士研究资助项目，丹麦 S.C. VAN 基金会</strong>，迈向环境可持续性和经济可行性的途径：整合物质流分析（MFA）和技术经济评估（TEA），2023.09–2024.03，12.5万丹麦克朗。
+  Towards Environmental Sustainability and Economic Viability: Integrating Material Flow Analysis (MFA) and Techno-Economic Assessment (TEA), 2023.09–2024.03, 125,000 DKK, completed.<br>
+  <strong>博士研究资助项目，丹麦 S.C. VAN 基金会</strong>，迈向环境可持续性和经济可行性的途径：整合物质流分析（MFA）和技术经济评估（TEA），2023.09–2024.03，12.5万丹麦克朗，主持，结题。
 </div>
 
 <div class="pub-item">
   <div class="pub-title">[16] <strong>Grethe &amp; Werner Parthum Foundation (Denmark), Doctoral Research Grant</strong></div>
-  Breaking the Technical, Economic, and Environmental Barriers to Large-Scale Recycling of NdFeB Magnets, 2023.03–2024.02, 100,000 DKK.<br>
-  <strong>博士研究资助项目，丹麦 Grethe &amp; Werner Parthum 基金会</strong>，打破钕铁硼磁体规模化回收的技术、经济和环境障碍，2023.03–2024.02，10万丹麦克朗。
+  Breaking the Technical, Economic, and Environmental Barriers to Large-Scale Recycling of NdFeB Magnets, 2023.03–2024.02, 100,000 DKK, completed.<br>
+  <strong>博士研究资助项目，丹麦 Grethe &amp; Werner Parthum 基金会</strong>，打破钕铁硼磁体规模化回收的技术、经济和环境障碍，2023.03–2024.02，10万丹麦克朗，主持，结题。
 </div>
 
 <div class="pub-item">
   <div class="pub-title">[17] <strong>Idella Foundation (Denmark), Doctoral Visiting Fellowship</strong></div>
-  2022.09–2023.06, 25,000 DKK.<br>
-  <strong>博士研究访学项目，丹麦 Idella Foundation 基金会</strong>，2022.09–2023.06，2.5万丹麦克朗。
+  2022.09–2023.06, 25,000 DKK, completed.<br>
+  <strong>博士研究访学项目，丹麦 Idella Foundation 基金会</strong>，2022.09–2023.06，2.5万丹麦克朗，主持，结题。
 </div>
