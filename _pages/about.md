@@ -267,9 +267,9 @@ author_profile: false
 <hr class="section-rule">
 
 <p class="summary-blue">
-  <strong>Summary:</strong> <strong>24</strong> peer-reviewed journal articles published; more than
-  <a href="https://scholar.google.com/citations?hl=zh-CN&user=1FnI3BMAAAAJ" target="_blank"><strong>500 </strong>citations</a>;
-  <a href="https://scholar.google.com/citations?hl=zh-CN&user=1FnI3BMAAAAJ" target="_blank">H-index of <strong>10</strong></a>.
+  <strong>Summary:</strong> <strong>24 peer-reviewed journal articles</strong> published; more than
+  <a href="https://scholar.google.com/citations?hl=zh-CN&user=1FnI3BMAAAAJ" target="_blank"><strong>500 citations</strong></a>;
+  <a href="https://scholar.google.com/citations?hl=zh-CN&user=1FnI3BMAAAAJ" target="_blank"> <strong>H-index of10</strong></a>.
 </p>
 
 <div class="entry-item">
@@ -306,43 +306,43 @@ author_profile: false
 <hr class="section-rule">
 
 <p class="summary-blue">
-  <strong>Summary:</strong> Led and participated in <strong>13</strong> research projects at the provincial-ministerial level and above, with cumulative directly managed research funding exceeding <strong>RMB 2 million</strong>.
+  <strong>Summary:</strong> Led and participated in <strong>13 research projects</strong> at the provincial-ministerial level and above, with cumulative directly managed research funding exceeding <strong>RMB 2 million</strong>.
 </p>
 
 <div class="entry-item">
-  <div class="entry-title">[1] National Postdoctoral Talent Program (Overseas Recruitment Track)</div>
-  <strong>Multidimensional Sustainability Assessment of Building Renovation in China under the Dual-Carbon Goals...</strong>, 2024–2027, RMB 900,000, Principal Investigator.<br>
-  国家级博士后人才专项（海外引才），<strong>“双碳目标”下中国建筑翻新的...多维可持续性评估</strong>，2024–2027，90万元，主持。
+  <div class="entry-title">[1] <strong>National Postdoctoral Talent Program (Overseas Recruitment Track)<strong></div>
+  Multidimensional Sustainability Assessment of Building Renovation in China under the Dual-Carbon Goals..., 2024–2027, RMB 900,000, Principal Investigator.<br>
+  <strong>国家级博士后人才专项（海外引才）</strong>，“双碳目标”下中国建筑翻新的...多维可持续性评估，2024–2027，90万元，主持。
 </div>
 
 <div class="entry-item">
-  <div class="entry-title">[2] National Natural Science Foundation of China, Young Scientists Fund (Category C), No. 72504011</div>
-  <strong>Regulatory Mechanisms of Secondary Rare Earth Resource Supply Potential and Optimization of Large-Scale Recycling Pathways</strong>, 2026–2028, RMB 300,000, Principal Investigator.<br>
-  国家自然科学基金青年科学基金项目（C类），72504011，<strong>稀土二次资源供给潜力调控机制与规模化回收路径优化研究</strong>，2026–2028，30万元，主持。
+  <div class="entry-title">[2] <strong>National Natural Science Foundation of China, Young Scientists Fund (Category C)</strong>, No. 72504011</div>
+  Regulatory Mechanisms of Secondary Rare Earth Resource Supply Potential and Optimization of Large-Scale Recycling Pathways, 2026–2028, RMB 300,000, Principal Investigator.<br>
+  <strong>国家自然科学基金青年科学基金项目（C类）</strong>，72504011，稀土二次资源供给潜力调控机制与规模化回收路径优化研究，2026–2028，30万元，主持。
 </div>
 
 <div class="entry-item">
-  <div class="entry-title">[3] China Postdoctoral Science Foundation, General Program (77th Batch), No. 2025M771824</div>
-  <strong>Supply Potential Regulation and Pathway Optimization of Secondary Rare Earth Resources for Large-Scale Recycling</strong>, 2025–2027, RMB 50,000, Principal Investigator.<br>
-  中国博士后科学基金面上资助（第77批），2025M771824，<strong>面向规模化回收的稀土二次资源供给潜力调控与路径优化</strong>，2025–2027，5万元，主持。
+  <div class="entry-title">[3] <strong>China Postdoctoral Science Foundation, General Program (77th Batch)</strong>, No. 2025M771824</div>
+  Supply Potential Regulation and Pathway Optimization of Secondary Rare Earth Resources for Large-Scale Recycling, 2025–2027, RMB 50,000, Principal Investigator.<br>
+  <strong>中国博士后科学基金面上资助（第77批）</strong>，2025M771824，面向规模化回收的稀土二次资源供给潜力调控与路径优化，2025–2027，5万元，主持。
 </div>
 
 <div class="entry-item">
-  <div class="entry-title">[4] Open Fund of the National Key Laboratory of Low-Carbon Regeneration of Material Cycles, Beijing University of Technology, No. MLCR-2025KF-006</div>
-  <strong>Integrated Resource-Energy-Environment Assessment of the Life Cycle of Building Materials in Chinese Metropolitan Areas under the Dual-Carbon Goals</strong>, 2025–2027, RMB 150,000, Principal Investigator.<br>
-  北京工业大学材料循环低碳再生全国重点实验室开放基金，MLCR-2025KF-006，<strong>双碳目标下的中国都市圈建筑材料生命周期资源-能源-环境综合评估研究</strong>，2025–2027，15万元，主持。
+  <div class="entry-title">[4] <strong>Open Fund of the National Key Laboratory of Low-Carbon Regeneration of Material Cycles, Beijing University of Technology</strong>, No. MLCR-2025KF-006</div>
+  Integrated Resource-Energy-Environment Assessment of the Life Cycle of Building Materials in Chinese Metropolitan Areas under the Dual-Carbon Goals, 2025–2027, RMB 150,000, Principal Investigator.<br>
+ <strong> 北京工业大学材料循环低碳再生全国重点实验室开放基金</strong>，MLCR-2025KF-006，双碳目标下的中国都市圈建筑材料生命周期资源-能源-环境综合评估研究，2025–2027，15万元，主持。
 </div>
 
 <div class="entry-item">
-  <div class="entry-title">[5] National Major Program on Deep Earth Exploration, No. 2025ZD1007000</div>
-  <strong>Security Evaluation and Global Strategy Research on Strategic Mineral Resource Industrial and Supply Chains</strong>, 2025–2029, RMB 3,000,000, Topic Leader.<br>
-  深地国家科技重大专项，2025ZD1007000，<strong>战略性矿产资源产业链供应链安全评价与全球战略研究</strong>，2025–2029，300万元，参与（专题负责人）。
+  <div class="entry-title">[5] <strong>National Major Program on Deep Earth Exploration</strong>, No. 2025ZD1007000</div>
+  Security Evaluation and Global Strategy Research on Strategic Mineral Resource Industrial and Supply Chains, 2025–2029, RMB 3,000,000, Topic Leader.<br>
+  <strong>深地国家科技重大专项</strong>，2025ZD1007000，战略性矿产资源产业链供应链安全评价与全球战略研究，2025–2029，300万元，参与（专题负责人）。
 </div>
 
 <div class="entry-item">
-  <div class="entry-title">[6] NSFC Key Program, No. 42530502</div>
-  <strong>Dynamics of Strategic Resource Flows and Geo-Security Risk Assessment under Global Change</strong>, 2026–2030, RMB 2,190,000, Subproject Leader.<br>
-  国家自然科学基金重点项目，42530502，<strong>全球变化背景下战略资源流动态势与地缘安全风险评估</strong>，2026–2030，219万元，参与（课题负责人）。
+  <div class="entry-title">[6] <strong>NSFC Key Program</strong>, No. 42530502</div>
+  Dynamics of Strategic Resource Flows and Geo-Security Risk Assessment under Global Change, 2026–2030, RMB 2,190,000, Subproject Leader.<br>
+  <strong>国家自然科学基金重点项目</strong>，42530502，全球变化背景下战略资源流动态势与地缘安全风险评估，2026–2030，219万元，参与（课题负责人）。
 </div>
 
 <p><a href="/full-projects/">View full project list →</a></p>
@@ -350,7 +350,7 @@ author_profile: false
 <div id="research-activities" class="section-title" style="scroll-margin-top: 90px;">Research Activities</div>
 <hr class="section-rule">
 
-<div class="subsection-title">Invited Presentations</div>
+<div class="subsection-title">Invited Talks</div>
 <ul class="section-list">
   <li><strong>2025.09.18</strong> 中国建筑代谢及其资源-环境-社会效应, Nanchang University</li>
   <li><strong>2025.05.20</strong> 资源循环与行业脱碳模拟研究：以稀土和钢铁为例, University of Science and Technology Beijing</li>
