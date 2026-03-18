@@ -310,7 +310,7 @@ author_profile: false
 </p>
 
 <div class="entry-item">
-  <div class="entry-title">[1] <strong>National Postdoctoral Talent Program (Overseas Recruitment Track)<strong></div>
+  <div class="entry-title">[1] <strong>National Postdoctoral Talent Program (Overseas Recruitment Track)</strong>strong></div>
   Multidimensional Sustainability Assessment of Building Renovation in China under the Dual-Carbon Goals..., 2024–2027, RMB 900,000, Principal Investigator.<br>
   <strong>国家级博士后人才专项（海外引才）</strong>，“双碳目标”下中国建筑翻新的...多维可持续性评估，2024–2027，90万元，主持。
 </div>
