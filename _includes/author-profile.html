@@ -9,53 +9,55 @@
 <div itemscope itemtype="http://schema.org/Person">
 
   <style>
-    .author__avatar,
-    .author__avatar img {
-      border-radius: 0 !important;
-    }
-
-    .author__news {
-      margin-top: 1rem;
-      padding-top: 0.8rem;
-      border-top: 1px solid #d9d9d9;
-    }
-
-    .author__news-title {
-      font-size: 0.95rem;
-      font-weight: 700;
-      color: #1f4e8c;
-      margin-bottom: 0.6rem;
-    }
-
-    .author__news-scroll {
-      max-height: 220px;
-      overflow-y: auto;
-      padding-right: 6px;
-      font-size: 0.9rem;
-      line-height: 1.6;
-    }
-
-    .author__news-item {
-      margin-bottom: 0.75rem;
-    }
-
-    .author__news-date {
-      display: block;
-      font-weight: 700;
-      color: #444;
-      margin-bottom: 0.15rem;
-    }
-
-    .author__news-scroll::-webkit-scrollbar {
-      width: 6px;
-    }
-
-    .author__news-scroll::-webkit-scrollbar-thumb {
-      background: #c7c7c7;
-      border-radius: 3px;
-    }
+  .author__news {
+    margin-top: 1rem;
+    padding-top: 0.8rem;
+    border-top: 1px solid #d9d9d9;
+  }
+  
+  .author__news-title {
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: #1f4e8c;
+    margin-bottom: 0.6rem;
+  }
+  
+  .author__news-scroll {
+    max-height: 220px;
+    overflow-y: auto;
+    padding-right: 6px;
+    font-size: 0.9rem;
+    line-height: 1.6;
+  }
+  
+  .author__news-item {
+    margin-bottom: 0.75rem;
+  }
+  
+  .author__news-date {
+    display: block;
+    font-weight: 700;
+    color: #444;
+    margin-bottom: 0.15rem;
+  }
+  
+  .author__news-scroll::-webkit-scrollbar {
+    width: 6px;
+  }
+  
+  .author__news-scroll::-webkit-scrollbar-thumb {
+    background: #c7c7c7;
+    border-radius: 3px;
+  }
+  
+  .author__avatar img {
+    width: 250px;  /* 设置头像宽度 */
+    height: 250px; /* 设置头像高度 */
+    object-fit: cover; /* 保证图片填充区域 */
+    border-radius: 0 !important; /* 保持方形 */
+  }
   </style>
-
+    
   <div class="author__avatar">
     {% if author.avatar contains "://" %}
       <img src="{{ author.avatar }}" alt="{{ author.name }}" fetchpriority="high" />
