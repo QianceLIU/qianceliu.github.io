@@ -44,25 +44,34 @@ author_profile: true
 }
 
 /* ===== Top profile block ===== */
+# .profile-flex {
+#  display: flex;
+#  gap: 24px;
+#  align-items: flex-start;
+#  flex-wrap: wrap;
+#  margin-bottom: 1.5rem;
+# }
+
+#.profile-photo img {
+#  width: 240px;
+#  max-width: 100%;
+#  border-radius: 4px;
+#}
+#
+#.profile-info {
+#  flex: 1;
+#  min-width: 280px;
+#}
+  
 .profile-flex {
-  display: flex;
-  gap: 24px;
-  align-items: flex-start;
-  flex-wrap: wrap;
+  display: block;
   margin-bottom: 1.5rem;
 }
 
-.profile-photo img {
-  width: 240px;
-  max-width: 100%;
-  border-radius: 4px;
-}
-
 .profile-info {
-  flex: 1;
-  min-width: 280px;
+  width: 100%;
+  min-width: 0;
 }
-
 .profile-title {
   font-size: 1.5rem;
   font-weight: 700;
@@ -162,10 +171,10 @@ author_profile: true
 <div class="homepage-name">Qiance Liu 刘仟策</div>
 <hr class="homepage-hr">
 
-<div class="profile-flex">
-  <div class="profile-photo">
-    <img src="/images/IMG_1149.JPG" alt="Qiance Liu">
-  </div>
+# <div class="profile-flex">
+#  <div class="profile-photo">
+#    <img src="/images/IMG_1149.JPG" alt="Qiance Liu">
+#  </div>
 
   <div class="profile-info">
     <div class="profile-title">Boya Postdoctoral Researcher / Assistant Professor</div>
