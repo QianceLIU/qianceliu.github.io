@@ -187,14 +187,17 @@ author_profile: false
     <div class="profile-line">
       <strong>Research interests:</strong> Sustainable resource management, sectoral decarbonization, material flow analysis, and industrial ecology.
     </div>
+
+    <div class="profile-line">
+  <span style="color:#c00000; font-weight:700; font-size:1.15rem;">
+    
+    I actively welcome research collaborations, including joint publications, project proposals, and interdisciplinary initiatives.
+  </span>
+    </div>
+
   </div>
 </div>
 
-<div class="profile-line">
-  <span style="color:#c00000; font-weight:700; font-size:1.15rem;">
-    I actively welcome research collaborations, including joint publications, project proposals, and interdisciplinary initiatives.
-  </span>
-</div>
 
 <div id="biography" class="section-title" style="scroll-margin-top: 90px;">Biography</div>
 <hr class="section-rule">
