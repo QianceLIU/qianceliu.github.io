@@ -182,7 +182,6 @@ author_profile: true
     </div>
 
   </div>
-</div>
 
 
 <div id="biography" class="section-title" style="scroll-margin-top: 90px;">Biography</div>
