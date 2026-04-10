@@ -6,50 +6,55 @@
   {% assign author = site.author %}
 {% endif %}
 
-<style>
-.author__news {
-  margin-top: 1rem;
-  padding-top: 0.8rem;
-  border-top: 1px solid #d9d9d9;
-}
-
-.author__news-title {
-  font-size: 0.95rem;
-  font-weight: 700;
-  color: #1f4e8c;
-  margin-bottom: 0.6rem;
-}
-
-.author__news-scroll {
-  max-height: 220px;
-  overflow-y: auto;
-  padding-right: 6px;
-  font-size: 0.9rem;
-  line-height: 1.6;
-}
-
-.author__news-item {
-  margin-bottom: 0.75rem;
-}
-
-.author__news-date {
-  display: block;
-  font-weight: 700;
-  color: #444;
-  margin-bottom: 0.15rem;
-}
-
-.author__news-scroll::-webkit-scrollbar {
-  width: 6px;
-}
-
-.author__news-scroll::-webkit-scrollbar-thumb {
-  background: #c7c7c7;
-  border-radius: 3px;
-}
-</style>
-
 <div itemscope itemtype="http://schema.org/Person">
+
+  <style>
+    .author__avatar,
+    .author__avatar img {
+      border-radius: 0 !important;
+    }
+
+    .author__news {
+      margin-top: 1rem;
+      padding-top: 0.8rem;
+      border-top: 1px solid #d9d9d9;
+    }
+
+    .author__news-title {
+      font-size: 0.95rem;
+      font-weight: 700;
+      color: #1f4e8c;
+      margin-bottom: 0.6rem;
+    }
+
+    .author__news-scroll {
+      max-height: 220px;
+      overflow-y: auto;
+      padding-right: 6px;
+      font-size: 0.9rem;
+      line-height: 1.6;
+    }
+
+    .author__news-item {
+      margin-bottom: 0.75rem;
+    }
+
+    .author__news-date {
+      display: block;
+      font-weight: 700;
+      color: #444;
+      margin-bottom: 0.15rem;
+    }
+
+    .author__news-scroll::-webkit-scrollbar {
+      width: 6px;
+    }
+
+    .author__news-scroll::-webkit-scrollbar-thumb {
+      background: #c7c7c7;
+      border-radius: 3px;
+    }
+  </style>
 
   <div class="author__avatar">
     {% if author.avatar contains "://" %}
@@ -68,7 +73,6 @@
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
-      <!-- Font Awesome icons / Biographic information -->
       {% if author.location %}
         <li class="author__desktop"><i class="fas fa-fw fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
       {% endif %}
@@ -82,7 +86,6 @@
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
 
-      <!-- Academic websites -->
       {% if author.academia %}
         <li><a href="{{ author.academia }}"><i class="ai ai-academia ai-fw icon-pad-right" aria-hidden="true"></i>Academia</a></li>
       {% endif %}
@@ -120,7 +123,6 @@
         <li><a href="{{ author.zotero }}"><i class="ai ai-zotero ai-fw icon-pad-right"></i>Zotero</a></li>
       {% endif %}
 
-      <!-- Repositories and software development -->
       {% if author.bitbucket %}
         <li><a href="https://bitbucket.org/{{ author.bitbucket }}"><i class="fab fa-fw fa-bitbucket icon-pad-right" aria-hidden="true"></i>Bitbucket</a></li>
       {% endif %}
@@ -140,7 +142,6 @@
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow icon-pad-right" aria-hidden="true"></i>Stackoverflow</a></li>
       {% endif %}
 
-      <!-- Social media -->
       {% if author.artstation %}
         <li><a href="https://www.artstation.com/{{ author.artstation }}"><i class="fab fa-fw fa-artstation icon-pad-right" aria-hidden="true"></i>Artstation</a></li>
       {% endif %}
