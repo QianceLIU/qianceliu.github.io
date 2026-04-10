@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "IMG_1149.JPG"
   name             : "Qiance Liu （刘仟策）"
-  pronouns         :  "Boya Postdoctoral Researcher/Assistant Professor"  
+  pronouns         : # "Boya Postdoctoral Researcher/Assistant Professor"  
   bio              : "My research focuses on material cycles and sectoral decarbonization modelling, with a focus on understanding how urban material flows, resource utilization, and recycling contribute to reducing greenhouse gas emissions and advancing sustainable urban development."
   location         : "Peking, China"
-  employer         : "College of Urban and Environmental Sciences, Peking University"
+  employer         : "Peking University"
   uri              : # URL
   email            : "qianceliu@pku.edu.cn" 
 
