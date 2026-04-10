@@ -172,5 +172,51 @@
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
       {% endif %}      
     </ul>
+<style>
+.author__news {
+  margin-top: 1rem;
+  padding-top: 0.8rem;
+  border-top: 1px solid #d9d9d9;
+}
+
+.author__news-title {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #1f4e8c;
+  margin-bottom: 0.6rem;
+}
+
+.author__news-scroll {
+  max-height: 220px;
+  overflow-y: auto;
+  padding-right: 6px;
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.author__news-item {
+  margin-bottom: 0.75rem;
+}
+
+.author__news-date {
+  display: block;
+  font-weight: 700;
+  color: #444;
+  margin-bottom: 0.15rem;
+}
+</style>
+
+<div class="author__news">
+  <div class="author__news-title">News</div>
+  <div class="author__news-scroll">
+    {% for item in site.data.news %}
+      <div class="author__news-item">
+        <span class="author__news-date">{{ item.date }}</span>
+        {{ item.text }}
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
   </div>
 </div>
