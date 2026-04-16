@@ -197,6 +197,12 @@ author_profile: true
   </p>
 </div>
 
+<div style="text-align: center; margin-top: 1.2rem; margin-bottom: 1.5rem;">
+  <img src="/images/研究框架1.png" alt="Research framework"
+       style="width: 85%; max-width: 900px; border: 1px solid #ddd; padding: 4px; background: white;">
+</div>
+
+
 <div id="education" class="section-title" style="scroll-margin-top: 90px;">Education</div>
 <hr class="section-rule">
 
