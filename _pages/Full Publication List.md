@@ -2,7 +2,7 @@
 layout: archive
 title: "Full Publication List"
 permalink: /full-publications/
-author_profile: false
+author_profile: true
 ---
 
 
