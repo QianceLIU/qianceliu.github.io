@@ -38,7 +38,7 @@ author_profile: false
 
 <div class="subsection-title">Principal Investigator / 主持项目</div>
 
-<div class="subsection-title" style="font-size: 1.02rem; color: #444;">Ongoing / 在研</div>
+<div class="subsection-title">Ongoing / 在研</div>
 
 <div class="pub-item">
   <div class="pub-title">[1] <strong>National Postdoctoral Talent Program (Overseas Recruitment Track)</strong></div>
@@ -78,7 +78,7 @@ author_profile: false
 
 <div class="subsection-title">Co-Investigator / 参与项目</div>
 
-<div class="subsection-title" style="font-size: 1.02rem; color: #444;">Ongoing / 在研</div>
+<div class="subsection-title">Ongoing / 在研</div>
 
 <div class="pub-item">
   <div class="pub-title">[7] <strong>National Major Program on Deep Earth Exploration</strong>, No. 2025ZD1007000</div>
@@ -122,7 +122,7 @@ author_profile: false
   <strong>深圳市科技创新局，重点产业研发计划（可持续发展专项）</strong>，重202511003，新能源电池产品碳足迹智能核算技术研发与应用示范，2026-01-01 至 2029-12-31，500万元，在研，参与。
 </div>
 
-<div class="subsection-title" style="font-size: 1.02rem; color: #444;">Completed / 结题</div>
+<div class="subsection-title">Completed / 结题</div>
 
 <div class="pub-item">
   <div class="pub-title">[14] <strong>NSFC Major Program</strong>, No. 71991484</div>
