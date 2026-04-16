@@ -38,6 +38,8 @@ author_profile: false
 
 <div class="subsection-title">Principal Investigator / 主持项目</div>
 
+<div class="subsection-title" style="font-size: 1.02rem; color: #444;">Ongoing / 在研</div>
+
 <div class="pub-item">
   <div class="pub-title">[1] <strong>National Postdoctoral Talent Program (Overseas Recruitment Track)</strong></div>
   Multidimensional Sustainability Assessment of Building Renovation in China under the Dual-Carbon Goals..., 2024-09-01 to 2027-08-31, RMB 900,000, in progress.<br>
@@ -75,6 +77,8 @@ author_profile: false
 </div>
 
 <div class="subsection-title">Co-Investigator / 参与项目</div>
+
+<div class="subsection-title" style="font-size: 1.02rem; color: #444;">Ongoing / 在研</div>
 
 <div class="pub-item">
   <div class="pub-title">[7] <strong>National Major Program on Deep Earth Exploration</strong>, No. 2025ZD1007000</div>
@@ -118,28 +122,42 @@ author_profile: false
   <strong>深圳市科技创新局，重点产业研发计划（可持续发展专项）</strong>，重202511003，新能源电池产品碳足迹智能核算技术研发与应用示范，2026-01-01 至 2029-12-31，500万元，在研，参与。
 </div>
 
+<div class="subsection-title" style="font-size: 1.02rem; color: #444;">Completed / 结题</div>
+
 <div class="pub-item">
   <div class="pub-title">[14] <strong>NSFC Major Program</strong>, No. 71991484</div>
   Spatiotemporal Dynamics and Recycling Potential of Strategic Critical Metals from a Life-Cycle Perspective, 2020-01-01 to 2024-12-31, RMB 2,850,000, completed.<br>
   <strong>国家自然科学基金委员会，重大项目</strong>，71991484，基于全生命周期的战略性关键金属矿产循环利用时空规律与再生潜力评估，2020-01-01 至 2024-12-31，285万元，结题，参与。
 </div>
 
-<div class="subsection-title">Other Academic Funding / 其他学术资助</div>
+<div class="subsection-title">Academic Funding Received During Graduate Studies (M.Sc. & Ph.D.) / 研究生期间（硕士+博士）获得的学术资助</div>
 
 <div class="pub-item">
-  <div class="pub-title">[15] <strong>S.C. VAN Foundation (Denmark), Doctoral Research Grant</strong></div>
-  Towards Environmental Sustainability and Economic Viability: Integrating Material Flow Analysis (MFA) and Techno-Economic Assessment (TEA), 2023.09–2024.03, 125,000 DKK, completed.<br>
-  <strong>博士研究资助项目，丹麦 S.C. VAN 基金会</strong>，迈向环境可持续性和经济可行性的途径：整合物质流分析（MFA）和技术经济评估（TEA），2023.09–2024.03，12.5万丹麦克朗，主持，结题。
+  <div class="pub-title">[15] <strong>China Scholarship Council (CSC)</strong>, No. 202107940001</div>
+  State Scholarship Fund for Overseas Study, 2021-09-01 to 2023-08-31, completed.<br>
+  <strong>国家留学基金管理委员会，国家留学基金资助出国留学项目</strong>，202107940001，2021-09-01 至 2023-08-31，结题。
 </div>
 
 <div class="pub-item">
-  <div class="pub-title">[16] <strong>Grethe &amp; Werner Parthum Foundation (Denmark), Doctoral Research Grant</strong></div>
-  Breaking the Technical, Economic, and Environmental Barriers to Large-Scale Recycling of NdFeB Magnets, 2023.03–2024.02, 100,000 DKK, completed.<br>
-  <strong>博士研究资助项目，丹麦 Grethe &amp; Werner Parthum 基金会</strong>，打破钕铁硼磁体规模化回收的技术、经济和环境障碍，2023.03–2024.02，10万丹麦克朗，主持，结题。
+  <div class="pub-title">[16] <strong>S.C. VAN Foundation (Denmark), Doctoral Research Grant</strong></div>
+  Towards Environmental Sustainability and Economic Viability: Integrating Material Flow Analysis (MFA) and Techno-Economic Assessment (TEA), 2023-09-01 to 2024-03-31, 125,000 DKK, completed.<br>
+  <strong>博士研究资助项目，丹麦 S.C. VAN 基金会</strong>，迈向环境可持续性和经济可行性的途径：整合物质流分析（MFA）和技术经济评估（TEA），2023-09-01 至 2024-03-31，12.5万丹麦克朗，主持，结题。
 </div>
 
 <div class="pub-item">
-  <div class="pub-title">[17] <strong>Idella Foundation (Denmark), Doctoral Visiting Fellowship</strong></div>
-  2022.09–2023.06, 25,000 DKK, completed.<br>
-  <strong>博士研究访学项目，丹麦 Idella Foundation 基金会</strong>，2022.09–2023.06，2.5万丹麦克朗，主持，结题。
+  <div class="pub-title">[17] <strong>Grethe &amp; Werner Parthum Foundation (Denmark), Doctoral Research Grant</strong></div>
+  Breaking the Technical, Economic, and Environmental Barriers to Large-Scale Recycling of NdFeB Magnets, 2023-03-01 to 2024-02-29, 100,000 DKK, completed.<br>
+  <strong>博士研究资助项目，丹麦 Grethe &amp; Werner Parthum 基金会</strong>，打破钕铁硼磁体规模化回收的技术、经济和环境障碍，2023-03-01 至 2024-02-29，10万丹麦克朗，主持，结题。
+</div>
+
+<div class="pub-item">
+  <div class="pub-title">[18] <strong>Idella Foundation (Denmark), Doctoral Visiting Fellowship</strong></div>
+  2022-09-01 to 2023-06-30, 25,000 DKK, completed.<br>
+  <strong>博士研究访学项目，丹麦 Idella Foundation 基金会</strong>，2022-09-01 至 2023-06-30，2.5万丹麦克朗，主持，结题。
+</div>
+
+<div class="pub-item">
+  <div class="pub-title">[19] <strong>Sino-Danish Center (SDC), Master's Visiting Program</strong></div>
+  Visiting Study Program at Sino-Danish Center, University of Chinese Academy of Sciences, 2018-03-14 to 2018-05-31, RMB 18,000, completed.<br>
+  <strong>中丹中心（Sino-Danish Center），硕士研究访学项目</strong>，中国科学院大学，2018-03-14 至 2018-05-31，1.8万元，结题。
 </div>
