@@ -376,6 +376,7 @@ author_profile: true
 <hr class="section-rule">
 
 <ul class="section-list">
+  <li><strong>2026.04</strong> Top Ten Research Advances in Chinese Geographical Science 2025, Geographical Society of China, ranked 7/9</li>
   <li><strong>2025.08</strong> Outstanding Young Presentation Award, 7th Annual Conference on Global Resource Flow and Management Research</li>
   <li><strong>2021.09</strong> China Scholarship Council (CSC) Scholarship for Overseas Doctoral Studies</li>
   <li><strong>2021.06</strong> Best Poster Award, Industrial Ecology Day 2021</li>
