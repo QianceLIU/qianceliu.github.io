@@ -198,7 +198,7 @@ author_profile: true
 </div>
 
 <div style="text-align: center; margin-top: 1.2rem; margin-bottom: 1.5rem;">
-  <img src="/images/研究框架1.png" alt="Research framework"
+  <img src="/images/研究方向.png" alt="Research framework"
        style="width: 85%; max-width: 900px; border: 1px solid #ddd; padding: 4px; background: white;">
 </div>
 
