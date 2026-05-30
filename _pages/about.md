@@ -189,7 +189,7 @@ author_profile: true
 
 <div class="bio-block">
   <p>
-    刘仟策，北京大学城市与环境学院博雅博士后、助理研究员，国家级博士后人才专项（海外引才）获得者，主要从事资源可持续管理研究，重点关注资源流动在温室气体减排和可持续城市发展中的作用机制。已在 <em>Nature Communications</em>、<em>Environmental Science &amp; Technology</em>（一作/通讯4篇）、<em>Resources, Conservation and Recycling</em>、《中国科学院院刊》等国内外高水平期刊发表论文20余篇，被引超过500次，H指数为10。主持及参与省部级及以上科研项目13项，并担任多个国际期刊审稿人。
+    刘仟策，北京大学城市与环境学院博雅博士后、助理研究员，国家级博士后人才专项（海外引才）获得者，主要从事资源可持续管理研究，重点关注资源流动在温室气体减排和可持续城市发展中的作用机制。已在 <em>Nature Communications</em>、<em>Environmental Science &amp; Technology</em>（一作/通讯4篇）、<em>Resources, Conservation and Recycling</em>、《中国科学院院刊》等国内外高水平期刊发表论文20余篇，被引超过600次，H指数为12。主持及参与省部级及以上科研项目13项，并担任多个国际期刊审稿人。
   </p>
 
   <p>
@@ -268,8 +268,8 @@ author_profile: true
 
 <p class="summary-blue">
   <strong>Summary:</strong> <strong>24 peer-reviewed journal articles</strong> published; more than
-  <a href="https://scholar.google.com/citations?hl=zh-CN&user=1FnI3BMAAAAJ" target="_blank"><strong>500 citations</strong></a>;
-  <a href="https://scholar.google.com/citations?hl=zh-CN&user=1FnI3BMAAAAJ" target="_blank"> <strong>H-index of10</strong></a>.
+  <a href="https://scholar.google.com/citations?hl=zh-CN&user=1FnI3BMAAAAJ" target="_blank"><strong>600+ citations</strong></a>;
+  <a href="https://scholar.google.com/citations?hl=zh-CN&user=1FnI3BMAAAAJ" target="_blank"> <strong>H-index of 12</strong></a>.
 </p>
 
 <div class="entry-item">
