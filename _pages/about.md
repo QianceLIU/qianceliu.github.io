@@ -189,7 +189,7 @@ author_profile: true
 
 <div class="bio-block">
   <p>
-    刘仟策，北京大学城市与环境学院博雅博士后、助理研究员，国家级博士后人才专项（海外引才）获得者，主要从事资源可持续管理研究，重点关注二次资源的循环再生在保障资源供应安全与减缓气候变化中的作用机制。已在 <em>Nature Communications</em>、<em>Environmental Science &amp; Technology</em>（一作/通讯4篇）、<em>Resources, Conservation and Recycling</em>、《中国科学院院刊》等国内外高水平期刊发表论文20余篇，被引超过600次，H指数为12。主持及参与省部级及以上科研项目13项，并担任多个国际期刊审稿人。
+    刘仟策，北京大学城市与环境学院博雅博士后、助理研究员，国家级博士后人才专项（海外引才）获得者，主要从事资源可持续管理研究，重点关注二次资源的循环再生在保障资源供应安全与减缓气候变化中的作用机制。已在 <em>Nature Communications</em>、<em>Environmental Science &amp; Technology</em>（一作/通讯4篇）、<em>Resources, Conservation and Recycling</em>、《中国科学院院刊》等国内外高水平期刊发表论文20余篇，被引超过600次，H指数为12。主持及参与省部级及以上科研项目14项，并担任多个国际期刊审稿人。
   </p>
 
   <p>
@@ -306,12 +306,12 @@ author_profile: true
 <hr class="section-rule">
 
 <p class="summary-blue">
-  <strong>Summary:</strong> Led and participated in <strong>13 research projects</strong> at the provincial-ministerial level and above, with cumulative directly managed research funding exceeding <strong>RMB 2 million</strong>.
+  <strong>Summary:</strong> Led and participated in <strong>14 research projects</strong> at the provincial-ministerial level and above, with cumulative directly managed research funding exceeding <strong>RMB 2 million</strong>.
 </p>
 
 <div class="entry-item">
   <div class="entry-title">[1] <strong>National Postdoctoral Talent Program (Overseas Recruitment Track)</strong></div>
-  Multidimensional Sustainability Assessment of Building Renovation in China under the Dual-Carbon Goals..., 2024–2027,  <strong>Principal Investigator</strong>.<br>
+  Multidimensional Sustainability Assessment of Building Renovation in China under the Dual-Carbon Goals..., 2024–2027, <strong>Principal Investigator</strong>.<br>
   <strong>国家级博士后人才专项（海外引才）</strong>，“双碳目标”下中国建筑翻新的...多维可持续性评估，2024–2027，<strong>主持</strong>。
 </div>
 
@@ -322,25 +322,31 @@ author_profile: true
 </div>
 
 <div class="entry-item">
-  <div class="entry-title">[3] <strong>China Postdoctoral Science Foundation, General Program (77th Batch)</strong>, No. 2025M771824</div>
+  <div class="entry-title">[3] <strong>China Postdoctoral Science Foundation, Special Grant (19th Batch)</strong>, No. XXXXXX</div>
+  Formation Mechanisms and Conversion Efficiency of Regenerated Rare Earth Resource Supply, 2026.07.01–2027.08.31, RMB 150,000, Ongoing, <strong>Principal Investigator</strong>.<br>
+  <strong>中国博士后科学基金特别资助（第19批）</strong>，XXXXXX，稀土资源再生供给形成机制与转化效率研究，2026.07.01–2027.08.31，15万元，在研，<strong>主持</strong>。
+</div>
+
+<div class="entry-item">
+  <div class="entry-title">[4] <strong>China Postdoctoral Science Foundation, General Program (77th Batch)</strong>, No. 2025M771824</div>
   Supply Potential Regulation and Pathway Optimization of Secondary Rare Earth Resources for Large-Scale Recycling, 2025–2027, <strong>Principal Investigator</strong>.<br>
   <strong>中国博士后科学基金面上资助（第77批）</strong>，2025M771824，面向规模化回收的稀土二次资源供给潜力调控与路径优化，2025–2027，<strong>主持</strong>。
 </div>
 
 <div class="entry-item">
-  <div class="entry-title">[4] <strong>Open Fund of the National Key Laboratory of Low-Carbon Regeneration of Material Cycles, Beijing University of Technology</strong></div>
+  <div class="entry-title">[5] <strong>Open Fund of the National Key Laboratory of Low-Carbon Regeneration of Material Cycles, Beijing University of Technology</strong></div>
   Integrated Resource-Energy-Environment Assessment of the Life Cycle of Building Materials in Chinese Metropolitan Areas under the Dual-Carbon Goals, 2025–2027, <strong>Principal Investigator</strong>.<br>
- <strong> 北京工业大学材料循环低碳再生全国重点实验室开放基金</strong>，双碳目标下的中国都市圈建筑材料生命周期资源-能源-环境综合评估研究，2025–2027，<strong>主持</strong>。
+  <strong>北京工业大学材料循环低碳再生全国重点实验室开放基金</strong>，双碳目标下的中国都市圈建筑材料生命周期资源-能源-环境综合评估研究，2025–2027，<strong>主持</strong>。
 </div>
 
 <div class="entry-item">
-  <div class="entry-title">[5] <strong>National Major Program on Deep Earth Exploration</strong>, No. 2025ZD1007000</div>
+  <div class="entry-title">[6] <strong>National Major Program on Deep Earth Exploration</strong>, No. 2025ZD1007000</div>
   Security Evaluation and Global Strategy Research on Strategic Mineral Resource Industrial and Supply Chains, 2025–2029, <strong>Topic Leader</strong>.<br>
   <strong>深地国家科技重大专项</strong>，2025ZD1007000，战略性矿产资源产业链供应链安全评价与全球战略研究，2025–2029，<strong>参与（专题负责人）</strong>。
 </div>
 
 <div class="entry-item">
-  <div class="entry-title">[6] <strong>NSFC Key Program</strong>, No. 42530502</div>
+  <div class="entry-title">[7] <strong>NSFC Key Program</strong>, No. 42530502</div>
   Dynamics of Strategic Resource Flows and Geo-Security Risk Assessment under Global Change, 2026–2030, <strong>Subproject Leader</strong>.<br>
   <strong>国家自然科学基金重点项目</strong>，42530502，全球变化背景下战略资源流动态势与地缘安全风险评估，2026–2030，<strong>参与（课题负责人）</strong>。
 </div>
