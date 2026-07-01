@@ -53,25 +53,37 @@ author_profile: true
 </div>
 
 <div class="pub-item">
-  <div class="pub-title">[3] <strong>China Postdoctoral Science Foundation, General Program (77th Batch)</strong>, No. 2025M771824</div>
+  <div class="pub-title">[3] <strong>China Postdoctoral Science Foundation, Special Grant (19th Batch)</strong>, No. XXXXXX</div>
+  Formation Mechanisms and Conversion Efficiency of Regenerated Rare Earth Resource Supply, 2026-07-01 to 2027-08-31, RMB 150,000, in progress.<br>
+  <strong>中国博士后科学基金会，中国博士后科学基金特别资助（第19批）</strong>，XXXXXX，稀土资源再生供给形成机制与转化效率研究，2026-07-01 至 2027-08-31，15万元，在研，主持。
+</div>
+
+<div class="pub-item">
+  <div class="pub-title">[4] <strong>China Postdoctoral Science Foundation, General Program (77th Batch)</strong>, No. 2025M771824</div>
   Supply Potential Regulation and Pathway Optimization of Secondary Rare Earth Resources for Large-Scale Recycling, 2025-07-01 to 2027-08-31, RMB 50,000, in progress.<br>
   <strong>中国博士后科学基金会，中国博士后科学基金面上资助（第77批）</strong>，2025M771824，面向规模化回收的稀土二次资源供给潜力调控与路径优化，2025-07-01 至 2027-08-31，5万元，在研，主持。
 </div>
 
 <div class="pub-item">
-  <div class="pub-title">[4] <strong>Peking University Boya Postdoctoral Fellowship</strong></div>
+  <div class="pub-title">[5] <strong>Peking University Boya Postdoctoral Fellowship</strong></div>
   Assessment of Building Renovation and Its Resource-Environmental Effects in China, 2024-09-01 to 2026-08-31, RMB 700,000 (talent subsidy), in progress.<br>
   <strong>北京大学，博雅博士后</strong>，中国建筑翻新及其资源环境效应评估，2024-09-01 至 2026-08-31，70万元（人才补贴），在研，主持。
 </div>
 
 <div class="pub-item">
-  <div class="pub-title">[5] <strong>Open Fund of the National Key Laboratory of Low-Carbon Regeneration of Material Cycles, Beijing University of Technology</strong>, No. MLCR-2025KF-006</div>
+  <div class="pub-title">[6] <strong>Open Fund of the National Key Laboratory of Low-Carbon Regeneration of Material Cycles, Beijing University of Technology</strong>, No. MLCR-2025KF-006</div>
   Integrated Resource-Energy-Environment Assessment of the Life Cycle of Building Materials in Chinese Metropolitan Areas under the Dual-Carbon Goals, 2025-09-01 to 2027-08-31, RMB 150,000, in progress.<br>
   <strong>北京工业大学，材料循环低碳再生全国重点实验室开放基金</strong>，MLCR-2025KF-006，双碳目标下的中国都市圈建筑材料生命周期资源-能源-环境综合评估研究，2025-09-01 至 2027-08-31，15万元，在研，主持。
 </div>
 
 <div class="pub-item">
-  <div class="pub-title">[6] <strong>Open Fund of Shanxi Key Laboratory of Surface Processes and Resource Ecological Security in the Fenhe River Basin, Taiyuan Normal University</strong>, No. FHKF202505</div>
+  <div class="pub-title">[7] <strong>Open Fund of the National Key Laboratory of Green and Low-Carbon Steel Metallurgy, University of Science and Technology Beijing</strong>, No. KF26-06</div>
+  Mechanisms and Techno-Economic Assessment of Maximum Emission Reduction through Oxygen-Hydrogen Coupled Blast Furnace Stock Retrofitting, 2026-01-01 to 2027-12-31, RMB 100,000, in progress.<br>
+  <strong>北京科技大学，绿色低碳钢铁冶金全国重点实验室开放基金</strong>，KF26-06，氧氢耦合高炉存量改造极限减排机理与技术经济评价，2026-01-01 至 2027-12-31，10万元，在研，主持。
+</div>
+
+<div class="pub-item">
+  <div class="pub-title">[8] <strong>Open Fund of Shanxi Key Laboratory of Surface Processes and Resource Ecological Security in the Fenhe River Basin, Taiyuan Normal University</strong>, No. FHKF202505</div>
   Resource Utilization Pathways and Eco-Environmental Effects of Industrial Solid Waste in Typical Areas of Shanxi, 2025-10-01 to 2027-09-30, RMB 20,000, in progress.<br>
   <strong>太原师范学院，汾河流域地表过程与资源生态安全山西省重点实验室开放基金</strong>，FHKF202505，山西典型区域工业固废资源化利用路径及生态环境效应研究，2025-10-01 至 2027-09-30，2万元，在研，主持。
 </div>
