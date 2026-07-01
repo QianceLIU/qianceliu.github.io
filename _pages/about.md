@@ -323,8 +323,8 @@ author_profile: true
 
 <div class="entry-item">
   <div class="entry-title">[3] <strong>China Postdoctoral Science Foundation, Special Grant (19th Batch)</strong>, No. XXXXXX</div>
-  Formation Mechanisms and Conversion Efficiency of Regenerated Rare Earth Resource Supply, 2026.07.01–2027.08.31, RMB 150,000, Ongoing, <strong>Principal Investigator</strong>.<br>
-  <strong>中国博士后科学基金特别资助（第19批）</strong>，XXXXXX，稀土资源再生供给形成机制与转化效率研究，2026.07.01–2027.08.31，15万元，在研，<strong>主持</strong>。
+  Formation Mechanisms and Conversion Efficiency of Regenerated Rare Earth Resource Supply, 2026–2027, RMB 150,000, Ongoing, <strong>Principal Investigator</strong>.<br>
+  <strong>中国博士后科学基金特别资助（第19批）</strong>，XXXXXX，稀土资源再生供给形成机制与转化效率研究，2026–2027，15万元，在研，<strong>主持</strong>。
 </div>
 
 <div class="entry-item">
