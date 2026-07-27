@@ -3,6 +3,7 @@ layout: archive
 title: "Full Project List"
 permalink: /full-projects/
 author_profile: true
+published: false
 ---
 
 <style>
