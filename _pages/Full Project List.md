@@ -111,9 +111,9 @@ author_profile: true
 </div>
 
 <div class="pub-item">
-  <div class="pub-title">[10] <strong>Ministry of Education, Discipline Breakthrough Pilot Project</strong>, No. XXXXXX</div>
+  <div class="pub-title">[10] <strong>Ministry of Education, Discipline Breakthrough Pilot Project</strong>, No. JYB2025XDXM905</div>
   Pilot Project for Digital Ecological Civilization Discipline Breakthrough, 2025-01-01 to 2029-12-31, RMB 57.904 million, in progress.<br>
-  <strong>教育部，学科突破先导项目</strong>，XXXXXX，数字生态文明学科突破先导项目，2025-01-01 至 2029-12-31，5790.4万元（国拨），在研，参与。
+  <strong>教育部，学科突破先导项目</strong>，JYB2025XDXM905，数字生态文明学科突破先导项目，2025-01-01 至 2029-12-31，5790.4万元（国拨），在研，参与。
 </div>
 
 <div class="pub-item">
