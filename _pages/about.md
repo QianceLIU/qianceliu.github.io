@@ -351,7 +351,9 @@ author_profile: true
   <strong>国家自然科学基金重点项目</strong>，42530502，全球变化背景下战略资源流动态势与地缘安全风险评估，2026–2030，<strong>参与（课题负责人）</strong>。
 </div>
 
-##<p><a href="/full-projects/">View full project list →</a></p>
+<!--
+<p><a href="/full-projects/">View full project list →</a></p>
+-->
 
 <div id="research-activities" class="section-title" style="scroll-margin-top: 90px;">Research Activities</div>
 <hr class="section-rule">
