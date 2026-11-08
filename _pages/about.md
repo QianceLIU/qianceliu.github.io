@@ -263,7 +263,7 @@ author_profile: true
   </div>
 </div>
 
-<div id="publications" class="section-title" style="scroll-margin-top: 90px;">Selected Publications / 代表作</div>
+<div id="publications" class="section-title" style="scroll-margin-top: 90px;">Selected Publications</div>
 <hr class="section-rule">
 
 <p class="summary-blue">
