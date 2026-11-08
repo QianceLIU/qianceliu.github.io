@@ -166,7 +166,7 @@ author_profile: true
     </div>
 
     <div class="profile-line profile-links">
-      <a href="https://scholar.google.com/citations?hl=zh-CN&user=1FnI3BMAAAAJ" target="_blank">Google Scholar</a>
+      <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=1FnI3BMAAAAJ" target="_blank">Google Scholar</a>
       <a href="https://orcid.org/0000-0003-0532-8550" target="_blank">ORCID</a>
     </div>
 
@@ -189,11 +189,11 @@ author_profile: true
 
 <div class="bio-block">
   <p>
-    刘仟策，北京大学城市与环境学院博雅博士后、助理研究员，国家级博士后人才专项（海外引才）获得者，主要从事资源可持续管理研究，重点关注二次资源的循环再生在保障资源供应安全与减缓气候变化中的作用机制。已在 <em>Nature Communications</em>、<em>Environmental Science &amp; Technology</em>（一作/通讯4篇）、<em>Resources, Conservation and Recycling</em>、《中国科学院院刊》等国内外高水平期刊发表论文20余篇，被引超过600次，H指数为14。主持及参与省部级及以上科研项目14项，并担任多个国际期刊审稿人。
+    刘仟策，北京大学城市与环境学院博雅博士后，国家级博士后人才专项（海外引才）获得者，主要从事资源可持续管理研究，重点关注二次资源的循环再生在保障资源供应安全与减缓气候变化中的作用机制。本硕博分别毕业于北京科技大学、中国科学院大学/哥本哈根大学（双硕士学位）及南丹麦大学，博士期间赴代尔夫特理工大学联合培养，博士毕业后在新加坡国立大学开展博士后研究，现就职于北京大学。在Nature Communications、Environmental Science &amp; Technology（一作/通讯4篇）、Resources, Conservation and Recycling、《中国科学院院刊》等国内外高水平期刊发表论文20余篇，引用数731次，H指数为13（截至2026年11月）。主持及参与省部级及以上科研项目14项，其中主持国家自然科学基金青年科学基金项目（C类）、中国博士后科学基金特别资助、面上资助、全国/省重点实验室开放基金3项，担任国家自然科学基金重点项目课题负责人、国家科技重大专项子课题负责人。同时担任 Environmental Science &amp; Technology、Sustainable Production and Consumption 等十余个国际期刊的审稿人。
   </p>
 
   <p>
-    Qiance Liu is a Boya Postdoctoral Researcher / Assistant Professor at the College of Urban and Environmental Sciences, Peking University, and a recipient of the National Postdoctoral Talent Program (Overseas Recruitment Track). His research focuses on sustainable resource management, with particular emphasis on the role of secondary resource recycling in securing resource supply and mitigating climate change. He has published more than 20 papers in leading journals including <em>Nature Communications</em>, <em>Environmental Science &amp; Technology</em>, and <em>Resources, Conservation and Recycling</em>.
+    Qiance Liu is a Boya Postdoctoral Researcher / Assistant Professor at the College of Urban and Environmental Sciences, Peking University, and a recipient of the National Postdoctoral Talent Program (Overseas Recruitment Track). His research focuses on sustainable resource management, with particular emphasis on the role of secondary resource recycling in securing resource supply and mitigating climate change. He has published more than 20 papers in leading journals including <em>Nature Communications</em>, <em>Environmental Science &amp; Technology</em>, and <em>Resources, Conservation and Recycling</em>, with 731 citations and an H-index of 13 as of November 2026. He has led or participated in 14 research projects at the provincial-ministerial level and above, including an NSFC Young Scientists Fund (Category C) project and special and general grants from the China Postdoctoral Science Foundation. He also serves as a reviewer for more than ten international journals.
   </p>
 </div>
 
@@ -246,13 +246,13 @@ author_profile: true
 
 <div class="entry-item">
   <div class="entry-title">
-    <strong>2023.09–Present</strong> &nbsp; Peking University, Boya Postdoctoral Researcher / Assistant Professor
+    <strong>2024.09–Present</strong> &nbsp; Peking University, Boya Postdoctoral Researcher / Assistant Professor
   </div>
 </div>
 
 <div class="entry-item">
   <div class="entry-title">
-    <strong>2023.05–2023.08</strong> &nbsp; National University of Singapore, Postdoctoral Researcher, Supervisor: <strong><a class="supervisor-link" href="https://envfaculty.bnu.edu.cn/Public/htm/news/5/153.html" target="_blank">Assistant Prof. Yang Guo</a></strong>
+    <strong>2024.05–2024.08</strong> &nbsp; National University of Singapore, Postdoctoral Researcher, Supervisor: <strong><a class="supervisor-link" href="https://envfaculty.bnu.edu.cn/Public/htm/news/5/153.html" target="_blank">Assistant Prof. Yang Guo</a></strong>
   </div>
   新加坡国立大学，博士后研究员，合作导师：<a class="cn-supervisor-link" href="https://envfaculty.bnu.edu.cn/Public/htm/news/5/153.html" target="_blank">郭扬 教授</a>（现任职北京师范大学）
 </div>
@@ -263,41 +263,45 @@ author_profile: true
   </div>
 </div>
 
-<div id="publications" class="section-title" style="scroll-margin-top: 90px;">Publications</div>
+<div id="publications" class="section-title" style="scroll-margin-top: 90px;">Selected Publications / 代表作</div>
 <hr class="section-rule">
 
 <p class="summary-blue">
-  <strong>Summary:</strong> <strong>24 peer-reviewed journal articles</strong> published; more than
-  <a href="https://scholar.google.com/citations?hl=zh-CN&user=1FnI3BMAAAAJ" target="_blank"><strong>600+ citations</strong></a>;
-  <a href="https://scholar.google.com/citations?hl=zh-CN&user=1FnI3BMAAAAJ" target="_blank"> <strong>H-index of 14</strong></a>.
+  <strong>Summary:</strong> <strong>27 peer-reviewed journal articles</strong> published;
+  <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=1FnI3BMAAAAJ" target="_blank"><strong>731 citations</strong></a>;
+  <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=1FnI3BMAAAAJ" target="_blank"> <strong>H-index of 13</strong></a> (as of November 2026).
 </p>
 
 <div class="entry-item">
-  <div class="entry-title">[1] <strong>Liu, Q.</strong>, Ouyang, X., Zhu, W., Sun, K., Song, J., Li, X., Li, Y., Chen, W., Liu, G. 2025. Spatiotemporal Characteristics of Global Building Material Intensity Revealed for Circular and Low-Carbon Construction. <strong><em>Environmental Science &amp; Technology</em></strong> 59, 24786–24795. <a href="https://doi.org/10.1021/acs.est.5c05684" target="_blank">DOI</a></div>
+  <div class="entry-title">[1] <strong>Liu, Q.</strong>, You, K., Ouyang, X., Feng, W., Sun, K., Dai, M., Chen, W., Cai, W., Liu, G. 2026. Sectoral Coordination to Maximize China’s National and Provincial Building Carbon Emissions Mitigation. <strong><em>Engineering</em></strong>. <a href="https://doi.org/10.1016/j.eng.2026.09.012" target="_blank">DOI</a></div>
 </div>
 
 <div class="entry-item">
-  <div class="entry-title">[2] Wang, B., <strong>Liu, Q.</strong>*, Ouyang, X., Chen, W., Zhang, Z., Liu, G., Matsubae, K. 2025. Global hidden material flows triggered by China’s vehicle supply chain far exceed eventual material use. <strong><em>Nature Communications</em></strong> 16, 9217. <a href="https://doi.org/10.1038/s41467-025-64090-x" target="_blank">DOI</a></div>
+  <div class="entry-title">[2] <strong>Liu, Q.</strong>, Ouyang, X., Zhu, W., Sun, K., Song, J., Li, X., Li, Y., Chen, W., Liu, G. 2025. Spatiotemporal Characteristics of Global Building Material Intensity Revealed for Circular and Low-Carbon Construction. <strong><em>Environmental Science &amp; Technology</em></strong> 59, 24786–24795. <a href="https://doi.org/10.1021/acs.est.5c05684" target="_blank">DOI</a></div>
 </div>
 
 <div class="entry-item">
-  <div class="entry-title">[3] Dai, T., Han, Z., Chen, W., Wen, B., Ouyang, X., Li, Q., Pan, Z., <strong>Liu, Q.</strong>* 2024. Uncovering Availability of the Secondary Iron Resources in China: Integrating Material Flow Analysis and Secondary Resources Reserve Assessment. <strong><em>Environmental Science &amp; Technology</em></strong> 58, 15268–15278. <a href="https://doi.org/10.1021/acs.est.3c09975" target="_blank">DOI</a></div>
+  <div class="entry-title">[3] Wang, B., <strong>Liu, Q.</strong>*, Ouyang, X., Chen, W., Zhang, Z., Liu, G., Matsubae, K. 2025. Global hidden material flows triggered by China’s vehicle supply chain far exceed eventual material use. <strong><em>Nature Communications</em></strong> 16, 9217. <a href="https://doi.org/10.1038/s41467-025-64090-x" target="_blank">DOI</a></div>
 </div>
 
 <div class="entry-item">
-  <div class="entry-title">[4] <strong>Liu, Q.</strong>, Sun, K., Ouyang, X., Sen, B., Liu, L., Dai, T., Liu, G. 2022. Tracking Three Decades of Global Neodymium Stocks and Flows with a Trade-Linked Multiregional Material Flow Analysis. <strong><em>Environmental Science &amp; Technology</em></strong> 56, 11807–11817. <a href="https://doi.org/10.1021/acs.est.2c02247" target="_blank">DOI</a></div>
+  <div class="entry-title">[4] Dai, T., Han, Z., Chen, W., Wen, B., Ouyang, X., Li, Q., Pan, Z., <strong>Liu, Q.</strong>* 2024. Uncovering Availability of the Secondary Iron Resources in China: Integrating Material Flow Analysis and Secondary Resources Reserve Assessment. <strong><em>Environmental Science &amp; Technology</em></strong> 58, 15268–15278. <a href="https://doi.org/10.1021/acs.est.3c09975" target="_blank">DOI</a></div>
 </div>
 
 <div class="entry-item">
-  <div class="entry-title">[5] <strong>Liu, Q.</strong>, Liu, L., Liu, X., Li, S., Liu, G. 2021. Building stock dynamics and the impact of construction bubble and bust on employment in China. <strong><em>Journal of Industrial Ecology</em></strong> 25, 1631–1643. <a href="https://doi.org/10.1111/jiec.13182" target="_blank">DOI</a></div>
+  <div class="entry-title">[5] <strong>Liu, Q.</strong>, Sun, K., Ouyang, X., Sen, B., Liu, L., Dai, T., Liu, G. 2022. Tracking Three Decades of Global Neodymium Stocks and Flows with a Trade-Linked Multiregional Material Flow Analysis. <strong><em>Environmental Science &amp; Technology</em></strong> 56, 11807–11817. <a href="https://doi.org/10.1021/acs.est.2c02247" target="_blank">DOI</a></div>
 </div>
 
 <div class="entry-item">
-  <div class="entry-title">[6] <strong>Liu, Q.</strong>, Cao, Z., Liu, X., Liu, L., Dai, T., Han, J., Duan, H., Wang, C., Wang, H., Liu, J., Cai, G., Mao, R., Wang, G., Tan, J., Li, S., Liu, G. 2019. Product and Metal Stocks Accumulation of China’s Megacities: Patterns, Drivers, and Implications. <strong><em>Environmental Science &amp; Technology</em></strong> 53, 4128–4139. <a href="https://doi.org/10.1021/acs.est.9b00387" target="_blank">DOI</a></div>
+  <div class="entry-title">[6] <strong>Liu, Q.</strong>, Liu, L., Liu, X., Li, S., Liu, G. 2021. Building stock dynamics and the impact of construction bubble and bust on employment in China. <strong><em>Journal of Industrial Ecology</em></strong> 25, 1631–1643. <a href="https://doi.org/10.1111/jiec.13182" target="_blank">DOI</a></div>
 </div>
 
 <div class="entry-item">
-  <div class="entry-title">[7] <strong>刘仟策</strong>, 刘立涛, 刘剑, 李胜功, 白晧, 刘刚. 2018. 重庆市钢铁存量估算及驱动力分析. <strong><em>资源科学</em></strong> 40, 2341–2350. <a href="https://doi.org/10.18402/resci.2018.12.02" target="_blank">DOI</a></div>
+  <div class="entry-title">[7] <strong>Liu, Q.</strong>, Cao, Z., Liu, X., Liu, L., Dai, T., Han, J., Duan, H., Wang, C., Wang, H., Liu, J., Cai, G., Mao, R., Wang, G., Tan, J., Li, S., Liu, G. 2019. Product and Metal Stocks Accumulation of China’s Megacities: Patterns, Drivers, and Implications. <strong><em>Environmental Science &amp; Technology</em></strong> 53, 4128–4139. <a href="https://doi.org/10.1021/acs.est.9b00387" target="_blank">DOI</a></div>
+</div>
+
+<div class="entry-item">
+  <div class="entry-title">[8] <strong>刘仟策</strong>, 刘立涛, 刘剑, 李胜功, 白晧, 刘刚. 2018. 重庆市钢铁存量估算及驱动力分析. <strong><em>资源科学</em></strong> 40, 2341–2350. <a href="https://doi.org/10.18402/resci.2018.12.02" target="_blank">DOI</a></div>
 </div>
 
 <p><a href="/full-publications/">View full publication list →</a></p>
@@ -306,13 +310,13 @@ author_profile: true
 <hr class="section-rule">
 
 <p class="summary-blue">
-  <strong>Summary:</strong> Led and participated in <strong>14 research projects</strong> at the provincial-ministerial level and above, with cumulative directly managed research funding exceeding <strong>RMB 2 million</strong>.
+  <strong>Summary:</strong> Led and participated in <strong>14 research projects</strong> at the provincial-ministerial level and above (as of November 2026).
 </p>
 
 <div class="entry-item">
   <div class="entry-title">[1] <strong>National Postdoctoral Talent Program (Overseas Recruitment Track)</strong></div>
-  Multidimensional Sustainability Assessment of Building Renovation in China under the Dual-Carbon Goals..., 2024–2027, <strong>Principal Investigator</strong>.<br>
-  <strong>国家级博士后人才专项（海外引才）</strong>，“双碳目标”下中国建筑翻新的...多维可持续性评估，2024–2027，<strong>主持</strong>。
+  Resource–Emission–Society Multidimensional Sustainability Assessment of Building Renovation in China under the Dual-Carbon Goals, 2024–2027, <strong>Principal Investigator</strong>.<br>
+  <strong>国家级博士后人才专项（海外引才）</strong>，“双碳目标”下中国建筑翻新的“资源-排放-社会”多维可持续性评估，2024–2027，<strong>主持</strong>。
 </div>
 
 <div class="entry-item">
@@ -351,9 +355,7 @@ author_profile: true
   <strong>国家自然科学基金重点项目</strong>，42530502，全球变化背景下战略资源流动态势与地缘安全风险评估，2026–2030，<strong>参与（课题负责人）</strong>。
 </div>
 
-<!--
 <p><a href="/full-projects/">View full project list →</a></p>
--->
 
 <div id="research-activities" class="section-title" style="scroll-margin-top: 90px;">Research Activities</div>
 <hr class="section-rule">
@@ -366,7 +368,11 @@ author_profile: true
 
 <div class="subsection-title">Conference Presentations</div>
 <ul class="section-list">
+  <li><strong>2025.09</strong> 第七届全国资源流动与管理研究学术年会, Oral Presentation</li>
+  <li><strong>2025.08</strong> 华人产业生态学会学术年会, Oral Presentation</li>
   <li><strong>2025.07</strong> ISIE Biannual Conference 2025, Poster Presentation, Singapore</li>
+  <li><strong>2025.06</strong> SDC CRM Workshop</li>
+  <li><strong>2025.04</strong> 第二届全国环境地学大会, Youth Flash Presentation</li>
   <li><strong>2024.09</strong> ISIE-SEM Biannual Conference 2024, Poster Presentation, Beijing</li>
   <li><strong>2023.07</strong> ISIE Biannual Conference 2023, Oral Presentation, Leiden</li>
   <li><strong>2022.07</strong> ISIE-SEM Biannual Conference 2022, Poster Presentation, Vienna</li>
@@ -375,16 +381,33 @@ author_profile: true
 
 <div class="subsection-title">Academic Services</div>
 <ul class="section-list">
-  <li><strong>2021–2023</strong> Board Member, Chinese Society of Industrial Ecology (CSIE)</li>
-  <li><strong>2019–Present</strong> Member, International Society of Industrial Ecology (ISIE)</li>
-  <li><strong>2019–Present</strong> Reviewer for <em>Global Environmental Change</em>, <em>Resources, Conservation &amp; Recycling</em>, <em>Sustainable Production and Consumption</em>, etc.</li>
+  <li><strong>2026–Present</strong> Reviewer, Cell Reports Sustainability</li>
+  <li><strong>2026–Present</strong> Reviewer, Environmental Science &amp; Technology</li>
+  <li><strong>2026–Present</strong> Reviewer, Communications Engineering</li>
+  <li><strong>2026–Present</strong> Reviewer, Journal of Cleaner Production</li>
+  <li><strong>2026–Present</strong> Reviewer, Frontiers in Earth Science, section Economic Geology</li>
+  <li><strong>2026–Present</strong> Reviewer, Journal of Hazardous Materials</li>
+  <li><strong>2026–Present</strong> Reviewer, Journal of Environmental Management</li>
+  <li><strong>2026–Present</strong> Reviewer, Engineering Management</li>
+  <li><strong>2026–Present</strong> Reviewer, iScience</li>
+  <li><strong>2025–Present</strong> Reviewer, Environmental Impact Assessment Review</li>
+  <li><strong>2025–Present</strong> Reviewer, cScience</li>
+  <li><strong>2024–Present</strong> Reviewer, Resources, Environment and Sustainability</li>
+  <li><strong>2024–Present</strong> Reviewer, Sustainable Production and Consumption</li>
+  <li><strong>2024–Present</strong> Reviewer, Journal of Industrial Ecology</li>
+  <li><strong>2024–Present</strong> Reviewer, Review of Accounting and Finance</li>
+  <li><strong>2023–Present</strong> Reviewer, Global Environmental Change</li>
+  <li><strong>2021–Present</strong> Reviewer, Resources Conservation and Recycling</li>
+  <li><strong>2021–2023</strong> Chinese Society of Industrial Ecology (CSIE), Board Member</li>
+  <li><strong>2019–Present</strong> International Society of Industrial Ecology (ISIE), Member</li>
 </ul>
 
 <div id="awards" class="section-title" style="scroll-margin-top: 90px;">Awards</div>
 <hr class="section-rule">
 
 <ul class="section-list">
-  <li><strong>2026.04</strong> Top Ten Research Advances in Chinese Geographical Science 2025, Geographical Society of China, ranked 7/9</li>
+  <li><strong>2026.10</strong> First Prize, 10th Management Science Awards, Chinese Society of Management Science, ranked 5/8.<br>基于产业生态的战略性矿产安全管理理论与方法，第十届中国管理科学学会管理科学奖一等奖，排名5/8。</li>
+  <li><strong>2026.04</strong> Top Ten Research Advances in Chinese Geographical Science 2025, Geographical Society of China, ranked 7/9.<br>资源经济地理方法创新与应用示范，2025年度“中国地理科学十大研究进展”，排名7/9</li>
   <li><strong>2025.08</strong> Outstanding Young Presentation Award, 7th Annual Conference on Global Resource Flow and Management Research</li>
   <li><strong>2021.09</strong> China Scholarship Council (CSC) Scholarship for Overseas Doctoral Studies</li>
   <li><strong>2021.06</strong> Best Poster Award, Industrial Ecology Day 2021</li>

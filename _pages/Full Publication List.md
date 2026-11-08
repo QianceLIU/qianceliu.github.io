@@ -11,6 +11,26 @@ author_profile: true
 <div style="font-size:18pt; font-weight:bold; margin-top:1em; margin-bottom:0.5em;">2026</div>
 <ol start="1">
   <li>
+    <span style="color:#1f77b4;">
+      <strong>Liu, Q.</strong>, You, K., Ouyang, X., Feng, W., Sun, K., Dai, M., Chen, W., Cai, W., Liu, G. 2026.
+      <strong>Sectoral Coordination to Maximize China’s National and Provincial Building Carbon Emissions Mitigation.</strong>
+      <em>Engineering</em>.
+      <a href="https://doi.org/10.1016/j.eng.2026.09.012">DOI</a>
+    </span>
+  </li>
+  <li>
+    Chen, W., Tan, J., Zhang, R., Rasmussen, J.K., Karlsson, J.L., Ouyang, X., <strong>Liu, Q.</strong>, Sen, B., Keiding, J.K., Liu, G. 2026.
+    <strong>Battery Material Demand and End-of-Life Management for Europe’s E-Mobility Transition.</strong>
+    <em>Engineering</em>.
+    <a href="https://doi.org/10.1016/j.eng.2026.05.017">DOI</a>
+  </li>
+  <li>
+    冯丽妃, 陈蕴颖, 董迪, 李子涵, 朱文松, 郭洪伟, <strong>刘仟策</strong>, 刘刚. 2026.
+    <strong>中国风光发电设备报废资源时空格局、回收潜力及管理政策.</strong>
+    <em>资源科学</em>.
+  </li>
+
+  <li>
     Gao, Y., Moradi, M., Zou, J., <strong>Liu, Q.</strong>, Wang, F., Jiang, G., Xu, D. 2026.
     <strong>Electroactive marine actinomycete <em>Nocardiopsis dassonvillei</em> accelerates the corrosion of 5083 aluminum alloy.</strong>
     <em>Corrosion Science</em> 259, 113514.
@@ -26,7 +46,7 @@ author_profile: true
 </ol>
 
 <div style="font-size:18pt; font-weight:bold; margin-top:1em; margin-bottom:0.5em;">2025</div>
-<ol start="3">
+<ol start="6">
   <li>
     <span style="color:#1f77b4;">
       <strong>Liu, Q.</strong>, Ouyang, X., Zhu, W., Sun, K., Song, J., Li, X., Li, Y., Chen, W., Liu, G. 2025.
@@ -82,7 +102,7 @@ author_profile: true
 </ol>
 
 <div style="font-size:18pt; font-weight:bold; margin-top:1em; margin-bottom:0.5em;">2024</div>
-<ol start="10">
+<ol start="13">
   <li>
     <span style="color:#1f77b4;">
       Dai, T., Han, Z., Chen, W., Wen, B., Ouyang, X., Li, Q., Pan, Z., <strong>Liu, Q.</strong>* 2024.
@@ -108,7 +128,7 @@ author_profile: true
 </ol>
 
 <div style="font-size:18pt; font-weight:bold; margin-top:1em; margin-bottom:0.5em;">2023</div>
-<ol start="13">
+<ol start="16">
   <li>
     刘艳飞, 李颖, 林子芃, <strong>刘仟策</strong>, 韩中奎. 2023.
     <strong>中国铝物质流历史变化分析和再生铝资源利用研究.</strong>
@@ -132,7 +152,7 @@ author_profile: true
 </ol>
 
 <div style="font-size:18pt; font-weight:bold; margin-top:1em; margin-bottom:0.5em;">2022</div>
-<ol start="16">
+<ol start="19">
   <li>
     刘刚, 刘立涛, 欧阳锌, <strong>刘仟策</strong>, 李想, 闫强. 2022.
     <strong>绿色低碳转型背景下关键金属循环利用战略与对策.</strong>
@@ -151,7 +171,7 @@ author_profile: true
 </ol>
 
 <div style="font-size:18pt; font-weight:bold; margin-top:1em; margin-bottom:0.5em;">2021</div>
-<ol start="18">
+<ol start="21">
   <li>
     <span style="color:#1f77b4;">
       <strong>Liu, Q.</strong>, Liu, L., Liu, X., Li, S., Liu, G. 2021.
@@ -163,7 +183,7 @@ author_profile: true
 </ol>
 
 <div style="font-size:18pt; font-weight:bold; margin-top:1em; margin-bottom:0.5em;">2020</div>
-<ol start="19">
+<ol start="22">
   <li>
     Tang, S., Zhang, L., Hao, Y., Chang, Y., Liu, G., <strong>Liu, Q.</strong>, Li, X. 2020.
     <strong>System dynamics modeling for construction material flows of urban residential building: A case study of Beijing, China.</strong>
@@ -187,7 +207,7 @@ author_profile: true
 </ol>
 
 <div style="font-size:18pt; font-weight:bold; margin-top:1em; margin-bottom:0.5em;">2019</div>
-<ol start="22">
+<ol start="25">
   <li>
     唐守娟, 张力小, 郝岩, <strong>刘仟策</strong>, 刘宇鹏, 韩骥. 2019.
     <strong>城市住宅建筑系统流量⁃存量动态模拟——以北京市为例.</strong>
@@ -206,7 +226,7 @@ author_profile: true
 </ol>
 
 <div style="font-size:18pt; font-weight:bold; margin-top:1em; margin-bottom:0.5em;">2018</div>
-<ol start="24">
+<ol start="27">
   <li>
     <span style="color:#1f77b4;">
       <strong>刘仟策</strong>, 刘立涛, 刘剑, 李胜功, 白晧, 刘刚. 2018.
