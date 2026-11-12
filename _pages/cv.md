@@ -19,7 +19,7 @@ redirect_from:
 
 Updated November 2026 · [Google Scholar](https://scholar.google.com/citations?hl=en&amp;user=1FnI3BMAAAAJ) · [qianceliu@pku.edu.cn](mailto:qianceliu@pku.edu.cn)
 
-刘仟策，北京大学城市与环境学院博雅博士后，国家级博士后人才专项（海外引才）获得者，主要从事资源可持续管理研究，重点关注二次资源的循环再生在保障资源供应安全与减缓气候变化中的作用机制。本硕博分别毕业于北京科技大学、中国科学院大学/哥本哈根大学（双硕士学位）及南丹麦大学，博士期间赴代尔夫特理工大学联合培养，博士毕业后在新加坡国立大学开展博士后研究，现就职于北京大学。在Nature Communications、Environmental Science &amp; Technology（一作/通讯4篇）、Resources, Conservation and Recycling、《中国科学院院刊》等国内外高水平期刊发表论文20余篇，引用数731次，H指数为13（截至2026年11月）。主持及参与省部级及以上科研项目14项，其中主持国家自然科学基金青年科学基金项目（C类）、中国博士后科学基金特别资助、面上资助、全国/省重点实验室开放基金3项，担任国家自然科学基金重点项目课题负责人、国家科技重大专项子课题负责人。同时担任 Environmental Science &amp; Technology、Sustainable Production and Consumption 等十余个国际期刊的审稿人。
+刘仟策，北京大学城市与环境学院博雅博士后，国家级博士后人才专项（海外引才）获得者，主要从事资源可持续管理研究，重点关注二次资源的循环再生在保障资源供应安全与减缓气候变化中的作用机制。本硕博分别毕业于北京科技大学、中国科学院大学/哥本哈根大学（双硕士学位）及南丹麦大学，博士期间赴代尔夫特理工大学联合培养，博士毕业后在新加坡国立大学开展博士后研究，现就职于北京大学。在Nature Communications、Environmental Science &amp; Technology、Resources, Conservation and Recycling、《中国科学院院刊》等国内外高水平期刊发表论文20余篇，引用数731次，H指数为13（截至2026年11月）。主持及参与省部级及以上科研项目14项，其中主持国家自然科学基金青年科学基金项目（C类）、中国博士后科学基金特别资助、面上资助、全国/省重点实验室开放基金3项，担任国家自然科学基金重点项目课题负责人、国家科技重大专项子课题负责人。同时担任 Environmental Science &amp; Technology、Sustainable Production and Consumption 等十余个国际期刊的审稿人。
 
 <div id="education" class="section-title" style="scroll-margin-top: 90px;">Education</div>
 <hr class="section-rule">
