@@ -93,9 +93,9 @@ author_profile: true
 <div class="subsection-title">Ongoing / 在研</div>
 
 <div class="pub-item">
-  <div class="pub-title">[9] <strong>NSFC Major Research Plan, Integration Project</strong></div>
-  Aggregation Mechanisms and Recycling Pathways for Urban Mines of Critical Metals, 2025-01-01 to 2027-12-31, Participant.<br>
-  <strong>国家自然科学基金委员会，重大研究计划集成项目</strong>，关键金属城市矿产聚集机制与资源化路径，2025-01-01 至 2027-12-31，参与。
+  <div class="pub-title">[9] <strong>NSFC Major Research Plan, Integration Project</strong>, No. 92462301</div>
+  Aggregation Mechanisms and Recycling Pathways for Urban Mines of Critical Metals, 2025-01-01 to 2027-12-31, RMB 640,000 (direct funding for Peking University's work package), in progress, Participant.<br>
+  <strong>国家自然科学基金委员会，重大研究计划集成项目</strong>，92462301，关键金属城市矿产聚集机制与资源化路径，2025-01-01 至 2027-12-31，64万元（北京大学承担部分直接经费），在研，参与。
 </div>
 
 <div class="pub-item">
